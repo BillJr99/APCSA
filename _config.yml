@@ -7,11 +7,11 @@ relative_links:
 
 theme: jekyll-theme-slate
 
-title: "CS173"
-description: "Intro to Computer Science"
+title: "APCSA"
+description: "AP Computer Science A"
 
 url                      : https://BillJr99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Ursinus-CS173-Fall2020" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/APCSA" # the subpath of your site, e.g. "/blog"
 
 # Analytics  
 google_analytics         : "UA-24052857-1"

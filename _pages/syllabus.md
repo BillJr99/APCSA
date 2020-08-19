@@ -1,32 +1,22 @@
 ---
 layout: syllabus
 permalink: /
-title: "CS173: Intro to Computer Science"
-excerpt: "CS173: Intro to Computer Science"
+title: "APCSA: AP Computer Science"
+excerpt: "APCSA: AP Computer Science"
     
 info:
-  course_number: CS173
+  course_number: APCSA
   course_sections: 
   - section: "B"
   - section: "C"
   course_title: "Intro to Computer Science"
   credit_hours: "4 Semester Hours"
-  course_homepage: "https://www.billmongan.com/Ursinus-CS173-Fall2020/"
-  chatlink: https://groupme.com/join_group/60668915/dGoprIMb
-  class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS173%20Fall%202020
-  ical: files/CS173.ics
+  course_homepage: "https://www.billmongan.com/APCSA/"
   course_prerequisites: "No prior programming experience is assumed! People from all backgrounds with all levels of experience are welcome. As long as you have a laptop that was manufactured within the past 10 years, you will be able to do all of the assignments and participate in class."
   course_start_date: "2020/09/07"
   course_end_date: "2020/12/15"
   course_description: "Introduction to the field of computer science. Topics include: methods for computational problem solving, algorithm development techniques, processes for development of new technologies, and programming projects of increasing complexity in a high-level language with emphasis on good programming style. The course also includes exposure to advanced topics in computer science such as graphics, human-computer interaction, and software engineering. Recommended for students in mathematics; business and economics; and the natural sciences. No prior computer programming experience is assumed. Offered every semester. Three hours of lecture and one hour of laboratory per week."
-  welcome_message: "Welcome to CS173!  In this course, we will explore together the ways in which computing positively affects our lives and helps us to understand and to interact with the world around us.  We will learn to automate powerful functionality through the use of programming fundamentals.  We will connect these fundamentals to underlying theory of Mathematics and Computer Science, and learn to apply that theory for good."
-  zoom:
-  - section:
-      zoomlink: "https://ursinus-edu.zoom.us/j/91450716052"
-      phonenumberlink: "https://ursinus-edu.zoom.us/u/ah7EJXKY2"
-  - section:
-      zoomlink: "https://ursinus-edu.zoom.us/j/99939384648"
-      phonenumberlink: "https://ursinus-edu.zoom.us/u/ab9KdLEJza"
+  welcome_message: "Welcome to APCSA!  In this course, we will explore together the ways in which computing positively affects our lives and helps us to understand and to interact with the world around us.  We will learn to automate powerful functionality through the use of programming fundamentals.  We will connect these fundamentals to underlying theory of Mathematics and Computer Science, and learn to apply that theory for good."
   class_meets_days:
     isM: true
     isT: true
