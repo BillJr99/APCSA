@@ -8,8 +8,11 @@ info:
   goals: 
     - To explain that data types are discrete because they are represented by a finite number of computing bits
     - To explain that all data are represented computationally via binary values
+    - To be able to use the three primitive data types used in this course: <code>int</code>, <code>double</code>, and <code>boolean</code>
     - To explain the relationship between a data type's bit size and its range
     - To explain why typed values take on discrete ranged values that can differ from data type to data type
+    - To be able to evaluate arithmetic expressions in a program code. <strong>(APCSA Framework Topic 1.3 Con 1.A)</strong>
+    - To be able to evaluate what is stored in a variable as a result of an expression with an assignment statement. <strong>(APCSA Framework Topic 1.3 Con 1.B)</strong>
   models:
     - model: |
         <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
