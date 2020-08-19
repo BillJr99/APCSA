@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Assignments/Iris
-title: "CS173: Intro to Computer Science - The Iris Dataset"
-excerpt: "CS173: Intro to Computer Science - The Iris Dataset"
+title: "APCSA: Intro to Computer Science - The Iris Dataset"
+excerpt: "APCSA: Intro to Computer Science - The Iris Dataset"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/aUBQKbnb"
   points: 100

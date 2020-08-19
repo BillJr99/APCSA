@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Strings
-title: "CS173: Intro to Computer Science - Strings"
-excerpt: "CS173: Intro to Computer Science - Strings"
+title: "APCSA: Intro to Computer Science - Strings"
+excerpt: "APCSA: Intro to Computer Science - Strings"
 
 info:
   goals: 

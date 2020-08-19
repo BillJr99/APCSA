@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/ASCIIArt
-title: "CS173: Intro to Computer Science - ASCII Art"
-excerpt: "CS173: Intro to Computer Science - ASCII Art"
+title: "APCSA: Intro to Computer Science - ASCII Art"
+excerpt: "APCSA: Intro to Computer Science - ASCII Art"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/BbktE1Lz"
   points: 100

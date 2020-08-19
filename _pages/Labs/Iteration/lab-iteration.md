@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/MonteCarloPi
-title: "CS173: Intro to Computer Science - Estimating Pi with Monte Carlo Simulation"
-excerpt: "CS173: Intro to Computer Science - Estimating Pi with Monte Carlo Simulation"
+title: "APCSA: Intro to Computer Science - Estimating Pi with Monte Carlo Simulation"
+excerpt: "APCSA: Intro to Computer Science - Estimating Pi with Monte Carlo Simulation"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/5lbeaWNk"
   points: 100

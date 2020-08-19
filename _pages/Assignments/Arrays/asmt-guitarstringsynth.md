@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Assignments/GuitarStringSynth
-title: "CS173: Intro to Computer Science - Guitar String Synthesier with the Karplus-Strong Algorithm"
-excerpt: "CS173: Intro to Computer Science - Guitar String Synthesier with the Karplus-Strong Algorithm"
+title: "APCSA: Intro to Computer Science - Guitar String Synthesier with the Karplus-Strong Algorithm"
+excerpt: "APCSA: Intro to Computer Science - Guitar String Synthesier with the Karplus-Strong Algorithm"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/0_JMejAT"
   points: 100

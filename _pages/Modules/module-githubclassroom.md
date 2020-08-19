@@ -1,8 +1,8 @@
 ---
 layout: module
 permalink: /Modules/GithubClassroom/Module
-title: "CS173: Intro to Computer Science - Cloning an Assignment with Github Classroom"
-excerpt: "CS173: Intro to Computer Science - Cloning an Assignment with Github Classroom"
+title: "APCSA: Intro to Computer Science - Cloning an Assignment with Github Classroom"
+excerpt: "APCSA: Intro to Computer Science - Cloning an Assignment with Github Classroom"
 
 info:
   prev: "../Github/Module"

@@ -1,8 +1,8 @@
 ---
 layout: module
 permalink: /Modules/MergeSort/Module
-title: "CS173: Intro to Computer Science - Merge Sort"
-excerpt: "CS173: Intro to Computer Science - Merge Sort"
+title: "APCSA: Intro to Computer Science - Merge Sort"
+excerpt: "APCSA: Intro to Computer Science - Merge Sort"
 
 info:
   next: "./Module2"

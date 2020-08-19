@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /Style-Guide
-title: "CS173: Intro to Computer Science - Style Guide"
-excerpt: "CS173: Intro to Computer Science - Style Guide"
+title: "APCSA: Intro to Computer Science - Style Guide"
+excerpt: "APCSA: Intro to Computer Science - Style Guide"
 
 ---
 # {{ page.title }}

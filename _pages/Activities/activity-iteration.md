@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Iteration
-title: "CS173: Intro to Computer Science - Iteration"
-excerpt: "CS173: Intro to Computer Science - Iteration"
+title: "APCSA: Intro to Computer Science - Iteration"
+excerpt: "APCSA: Intro to Computer Science - Iteration"
 
 info:
   next: ./Iteration2

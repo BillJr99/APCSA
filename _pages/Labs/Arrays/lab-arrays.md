@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/ArrayAveraging
-title: "CS173: Intro to Computer Science - Array Averaging"
-excerpt: "CS173: Intro to Computer Science - Array Averaging"
+title: "APCSA: Intro to Computer Science - Array Averaging"
+excerpt: "APCSA: Intro to Computer Science - Array Averaging"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/aYohLOSL"
   points: 100

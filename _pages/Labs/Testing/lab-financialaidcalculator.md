@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/FinancialAidCalculator
-title: "CS173: Intro to Computer Science - Financial Aid Calculator"
-excerpt: "CS173: Intro to Computer Science - Financial Aid Calculator"
+title: "APCSA: Intro to Computer Science - Financial Aid Calculator"
+excerpt: "APCSA: Intro to Computer Science - Financial Aid Calculator"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/f2o9Azh6"
   points: 100

@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/TellAStory
-title: "CS173: Intro to Computer Science - Tell a Story with HashMaps"
-excerpt: "CS173: Intro to Computer Science - Tell a Story with HashMaps"
+title: "APCSA: Intro to Computer Science - Tell a Story with HashMaps"
+excerpt: "APCSA: Intro to Computer Science - Tell a Story with HashMaps"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/KW7gYBFu"
   points: 100

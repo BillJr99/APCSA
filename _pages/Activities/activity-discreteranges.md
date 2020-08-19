@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/DiscreteRanges
-title: "CS173: Intro to Computer Science - Discrete Data Ranges"
-excerpt: "CS173: Intro to Computer Science - Discrete Data Ranges"
+title: "APCSA: Intro to Computer Science - Discrete Data Ranges"
+excerpt: "APCSA: Intro to Computer Science - Discrete Data Ranges"
 
 info:
   goals: 

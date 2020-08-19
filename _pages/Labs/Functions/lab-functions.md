@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/AverageFunction
-title: "CS173: Intro to Computer Science - Averaging Functions"
-excerpt: "CS173: Intro to Computer Science - Averaging Functions"
+title: "APCSA: Intro to Computer Science - Averaging Functions"
+excerpt: "APCSA: Intro to Computer Science - Averaging Functions"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/7Pyr5KjF"
   points: 100

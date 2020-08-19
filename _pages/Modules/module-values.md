@@ -1,8 +1,8 @@
 ---
 layout: module
 permalink: /Modules/Values/Module
-title: "CS173: Intro to Computer Science - ASCII Encoding"
-excerpt: "CS173: Intro to Computer Science - ASCII Encoding"
+title: "APCSA: Intro to Computer Science - ASCII Encoding"
+excerpt: "APCSA: Intro to Computer Science - ASCII Encoding"
 
 info:
   next: "./Module2"

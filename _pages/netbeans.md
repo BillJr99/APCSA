@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /NetBeans
-title: "CS173: Intro to Computer Science - NetBeans Software Environment"
-excerpt: "CS173: Intro to Computer Science - NetBeans Software Environment"
+title: "APCSA: Intro to Computer Science - NetBeans Software Environment"
+excerpt: "APCSA: Intro to Computer Science - NetBeans Software Environment"
     
 ---
 # {{ page.title }}

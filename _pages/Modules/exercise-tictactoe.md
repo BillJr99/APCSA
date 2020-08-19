@@ -1,8 +1,8 @@
 ---
 layout: exercise
 permalink: /Modules/TicTacToe/Exercise
-title: "CS173: Intro to Computer Science - Tic-Tac-Toe"
-excerpt: "CS173: Intro to Computer Science - Tic-Tac-Toe"
+title: "APCSA: Intro to Computer Science - Tic-Tac-Toe"
+excerpt: "APCSA: Intro to Computer Science - Tic-Tac-Toe"
 
 info:
   points: 3

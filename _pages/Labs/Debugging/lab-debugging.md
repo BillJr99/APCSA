@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/Debugging
-title: "CS173: Intro to Computer Science - Using the Debugger"
-excerpt: "CS173: Intro to Computer Science - Using the Debugger"
+title: "APCSA: Intro to Computer Science - Using the Debugger"
+excerpt: "APCSA: Intro to Computer Science - Using the Debugger"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/XLL23LHq"
   points: 100

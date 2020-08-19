@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Assignments/MiniCrypto
-title: "CS173: Intro to Computer Science - Public-Key Cryptography"
-excerpt: "CS173: Intro to Computer Science - Public-Key Cryptography"
+title: "APCSA: Intro to Computer Science - Public-Key Cryptography"
+excerpt: "APCSA: Intro to Computer Science - Public-Key Cryptography"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/EhOq4AkN"  
   points: 100

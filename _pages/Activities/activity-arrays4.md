@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Arrays4
-title: "CS173: Intro to Computer Science - Arrays"
-excerpt: "CS173: Intro to Computer Science - Arrays"
+title: "APCSA: Intro to Computer Science - Arrays"
+excerpt: "APCSA: Intro to Computer Science - Arrays"
 
 info:
   prev: ./Arrays3

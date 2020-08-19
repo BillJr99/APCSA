@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Conditionals3
-title: "CS173: Intro to Computer Science - Conditionals"
-excerpt: "CS173: Intro to Computer Science - Conditionals"
+title: "APCSA: Intro to Computer Science - Conditionals"
+excerpt: "APCSA: Intro to Computer Science - Conditionals"
 
 info:
   prev: ./Conditionals2

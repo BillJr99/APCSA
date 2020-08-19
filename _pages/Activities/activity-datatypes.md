@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/DataTypes
-title: "CS173: Intro to Computer Science - Overview of a Computer Program and Data Types"
-excerpt: "CS173: Intro to Computer Science - Overview of a Computer Program and Data Types"
+title: "APCSA: Intro to Computer Science - Overview of a Computer Program and Data Types"
+excerpt: "APCSA: Intro to Computer Science - Overview of a Computer Program and Data Types"
 
 info:
   next: ./EscapeCharacters

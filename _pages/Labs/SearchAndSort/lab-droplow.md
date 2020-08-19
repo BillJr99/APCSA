@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/DropLowest
-title: "CS173: Intro to Computer Science - Searching and Sorting: Dropping the Lowest Score"
-excerpt: "CS173: Intro to Computer Science - Searching and Sorting: Dropping the Lowest Score"
+title: "APCSA: Intro to Computer Science - Searching and Sorting: Dropping the Lowest Score"
+excerpt: "APCSA: Intro to Computer Science - Searching and Sorting: Dropping the Lowest Score"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/XWrevmFf"
   points: 100

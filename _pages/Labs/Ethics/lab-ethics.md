@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/EthicalConsiderations
-title: "CS173: Intro to Computer Science - Ethics in Algorithms"
-excerpt: "CS173: Intro to Computer Science - Ethics in Algorithms"
+title: "APCSA: Intro to Computer Science - Ethics in Algorithms"
+excerpt: "APCSA: Intro to Computer Science - Ethics in Algorithms"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/z3SHnGPd"
   points: 100

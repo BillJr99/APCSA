@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/HashMaps
-title: "CS173: Intro to Computer Science - HashMaps"
-excerpt: "CS173: Intro to Computer Science - HashMaps"
+title: "APCSA: Intro to Computer Science - HashMaps"
+excerpt: "APCSA: Intro to Computer Science - HashMaps"
 
 info:
   goals: 
@@ -27,11 +27,11 @@ info:
         public class Main {
            public static void main(String[] args) {
                 HashMap<String, String> courses = new HashMap<String, String>;
-                courses.put("CS173", "Prof. Mongan");
+                courses.put("APCSA", "Prof. Mongan");
                 courses.put("CS174", "Prof. Tralie");
                 courses.put("CS274", "Prof. Schilling");
                 
-                System.out.println("CS173 is taught by: " + courses.get("CS173"));
+                System.out.println("APCSA is taught by: " + courses.get("APCSA"));
                 
                 for(String key: courses.keySet()) {
                     System.out.println(key + " is taught by: " + courses.get(key));

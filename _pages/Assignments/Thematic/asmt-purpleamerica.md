@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Assignments/PurpleAmerica
-title: "CS173: Intro to Computer Science - Purple America"
-excerpt: "CS173: Intro to Computer Science - Purple America"
+title: "APCSA: Intro to Computer Science - Purple America"
+excerpt: "APCSA: Intro to Computer Science - Purple America"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/E9q6QJNl"
   points: 100

@@ -1,8 +1,8 @@
 ---
 layout: module
 permalink: /Modules/InsertionSort/Module2
-title: "CS173: Intro to Computer Science - Insertion Sort"
-excerpt: "CS173: Intro to Computer Science - Insertion Sort"
+title: "APCSA: Intro to Computer Science - Insertion Sort"
+excerpt: "APCSA: Intro to Computer Science - Insertion Sort"
 
 info:
   prev: "./Module"

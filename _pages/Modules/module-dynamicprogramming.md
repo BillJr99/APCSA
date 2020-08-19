@@ -1,8 +1,8 @@
 ---
 layout: module
 permalink: /Modules/DynamicProgramming/Module
-title: "CS173: Intro to Computer Science - Dynamic Programming"
-excerpt: "CS173: Intro to Computer Science - Dynamic Programming"
+title: "APCSA: Intro to Computer Science - Dynamic Programming"
+excerpt: "APCSA: Intro to Computer Science - Dynamic Programming"
 
 info:
   next: "./Module2"

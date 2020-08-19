@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/EscapeCharacters
-title: "CS173: Intro to Computer Science - Escape Characters"
-excerpt: "CS173: Intro to Computer Science - Escape Characters"
+title: "APCSA: Intro to Computer Science - Escape Characters"
+excerpt: "APCSA: Intro to Computer Science - Escape Characters"
 
 info:
   prev: ./DataTypes

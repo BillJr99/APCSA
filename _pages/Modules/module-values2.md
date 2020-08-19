@@ -1,8 +1,8 @@
 ---
 layout: module
 permalink: /Modules/Values/Module2
-title: "CS173: Intro to Computer Science - Floating Point"
-excerpt: "CS173: Intro to Computer Science - Floating Point"
+title: "APCSA: Intro to Computer Science - Floating Point"
+excerpt: "APCSA: Intro to Computer Science - Floating Point"
 
 info:
   next: "./Module3"

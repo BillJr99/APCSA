@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Functions
-title: "CS173: Intro to Computer Science - Functions"
-excerpt: "CS173: Intro to Computer Science - Functions"
+title: "APCSA: Intro to Computer Science - Functions"
+excerpt: "APCSA: Intro to Computer Science - Functions"
 
 next: ./Random
 

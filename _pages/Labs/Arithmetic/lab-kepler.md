@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Labs/Kepler
-title: "CS173: Intro to Computer Science - Kepler's Third Law"
-excerpt: "CS173: Intro to Computer Science - Kepler's Third Law"
+title: "APCSA: Intro to Computer Science - Kepler's Third Law"
+excerpt: "APCSA: Intro to Computer Science - Kepler's Third Law"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/O8ZYHB2u"
   points: 100

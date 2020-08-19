@@ -1,8 +1,8 @@
 ---
 layout: exercise
 permalink: /Modules/MergeSort/Exercise
-title: "CS173: Intro to Computer Science - Merge Sort"
-excerpt: "CS173: Intro to Computer Science - Merge Sort"
+title: "APCSA: Intro to Computer Science - Merge Sort"
+excerpt: "APCSA: Intro to Computer Science - Merge Sort"
 
 info:
   points: 3

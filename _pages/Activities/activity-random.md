@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Random
-title: "CS173: Intro to Computer Science - Functions to Generate Random Numbers"
-excerpt: "CS173: Intro to Computer Science - Functions to Generate Random Numbers"
+title: "APCSA: Intro to Computer Science - Functions to Generate Random Numbers"
+excerpt: "APCSA: Intro to Computer Science - Functions to Generate Random Numbers"
 
 prev: ./Functions
 

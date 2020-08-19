@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/SearchingAndSorting
-title: "CS173: Intro to Computer Science - Searching and Sorting"
-excerpt: "CS173: Intro to Computer Science - Searching and Sorting"
+title: "APCSA: Intro to Computer Science - Searching and Sorting"
+excerpt: "APCSA: Intro to Computer Science - Searching and Sorting"
 
 info:
   goals: 

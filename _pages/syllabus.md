@@ -1,15 +1,15 @@
 ---
 layout: syllabus
 permalink: /
-title: "APCSA: AP Computer Science"
-excerpt: "APCSA: AP Computer Science"
+title: "APCSA: AP Computer Science A"
+excerpt: "APCSA: AP Computer Science A"
     
 info:
   course_number: APCSA
   course_sections: 
   - section: "B"
   - section: "C"
-  course_title: "Intro to Computer Science"
+  course_title: "AP Computer Science A"
   credit_hours: "4 Semester Hours"
   course_homepage: "https://www.billmongan.com/APCSA/"
   course_prerequisites: "No prior programming experience is assumed! People from all backgrounds with all levels of experience are welcome. As long as you have a laptop that was manufactured within the past 10 years, you will be able to do all of the assignments and participate in class."
@@ -218,7 +218,7 @@ schedule:
 - week: "0"
   date: "0"
   title: "Course Overview: What is Computer Science?"
-  link: "../Ursinus-CS173-Overview"
+  link: "../Ursinus-APCSA-Overview"
   readings:
   - rtitle: "NetBeans IDE Software Environment"
     rlink: "NetBeans"
@@ -235,7 +235,7 @@ schedule:
 - week: "0"
   date: "2"
   title: "A Brief History of Computer Science"  
-  link: "../Ursinus-CS173-CSHistory"  
+  link: "../Ursinus-APCSA-CSHistory"  
 - week: "0"
   date: "3"
   title: "Data Types and Variables" 
@@ -783,4 +783,4 @@ For classroom attendance, the following rules apply:
 * In-class exercises and "low stakes" activities will take place individually and in groups to assess our progress together.  These exercises will be given both synchronously (for example, in-class activities, pair programming exercises) and asynchronously (for example, pre-lab exercises, peer code reviews, book surveys) and will be graded on a participation basis.  These are given equal weight and form the basis of the class participation score.
 * If a class session is remote, please feel free to make choices that make you most comfortable.  For example, I will record these sessions for students who cannot make the session or for those who would benefit from a review of the material.  Although I'd encourage you to enable your video feed if it is available, if you would prefer to leave your video off, you should absolutely feel free to do so.  Please keep your microphone on mute to avoid background noises while others are speaking; however, please do not feel "mic fright" about unmuting to speak up and participate anytime.  If, however, you would prefer to communicate via the chat interface (either exclusively or in combination with your audio/video), you should feel free to do that.  Whether in-person or remote, all I ask is that you engage as best you can; the material is challenging but fun, and we're all here to learn new things together.
 
-[^1]: This introduction is adapted from Dr. Tralie's CS173 [Course Syllabus](http://www.ctralie.com/Teaching/CS173_S2020/index.html).
+[^1]: This introduction is adapted from Dr. Tralie's APCSA [Course Syllabus](http://www.ctralie.com/Teaching/APCSA_S2020/index.html).

@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Assignments/MIDI
-title: "CS173: Intro to Computer Science - MIDI Audio"
-excerpt: "CS173: Intro to Computer Science - MIDI Audio"
+title: "APCSA: Intro to Computer Science - MIDI Audio"
+excerpt: "APCSA: Intro to Computer Science - MIDI Audio"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/mfQDVf2s"
   points: 100

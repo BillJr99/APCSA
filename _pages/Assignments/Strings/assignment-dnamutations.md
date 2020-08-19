@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Assignments/DNAMutations
-title: "CS173: Intro to Computer Science - DNA Mutations"
-excerpt: "CS173: Intro to Computer Science - DNA Mutations"
+title: "APCSA: Intro to Computer Science - DNA Mutations"
+excerpt: "APCSA: Intro to Computer Science - DNA Mutations"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   githubclassroom:
     clonelink: "https://classroom.github.com/a/jsxDUOIx"
   points: 100

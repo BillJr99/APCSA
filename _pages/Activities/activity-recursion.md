@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Recursion
-title: "CS173: Intro to Computer Science - Recursion and Merge Sort"
-excerpt: "CS173: Intro to Computer Science - Recursion and Merge Sort"
+title: "APCSA: Intro to Computer Science - Recursion and Merge Sort"
+excerpt: "APCSA: Intro to Computer Science - Recursion and Merge Sort"
 
 info:
   goals: 

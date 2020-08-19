@@ -1,15 +1,15 @@
 ---
 layout: quiz
 permalink: /Quizzes/PreSurvey
-title: "CS173: Intro to Computer Science - Pre Survey"
-excerpt: "CS173: Intro to Computer Science - Pre Survey"
+title: "APCSA: Intro to Computer Science - Pre Survey"
+excerpt: "APCSA: Intro to Computer Science - Pre Survey"
 
 info:
     points: 0
     quizname: "Welcome Survey"
     
     questions:
-      - text: "CS173"
+      - text: "APCSA"
         label: coursename
         visible: false
       - text: "What is your name?"

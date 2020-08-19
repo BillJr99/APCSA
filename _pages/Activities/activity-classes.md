@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Classes
-title: "CS173: Intro to Computer Science - Classes"
-excerpt: "CS173: Intro to Computer Science - Classes"
+title: "APCSA: Intro to Computer Science - Classes"
+excerpt: "APCSA: Intro to Computer Science - Classes"
 
 info:
   next: ./Classes2

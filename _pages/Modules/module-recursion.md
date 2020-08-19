@@ -1,8 +1,8 @@
 ---
 layout: module
 permalink: /Modules/Recursion/Module
-title: "CS173: Intro to Computer Science - Recursion"
-excerpt: "CS173: Intro to Computer Science - Recursion"
+title: "APCSA: Intro to Computer Science - Recursion"
+excerpt: "APCSA: Intro to Computer Science - Recursion"
 
 info:
   next: "./Exercise"

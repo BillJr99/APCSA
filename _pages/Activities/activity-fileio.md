@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/FileIO
-title: "CS173: Intro to Computer Science - File I/O"
-excerpt: "CS173: Intro to Computer Science - File I/O"
+title: "APCSA: Intro to Computer Science - File I/O"
+excerpt: "APCSA: Intro to Computer Science - File I/O"
 
 info:
   goals: 

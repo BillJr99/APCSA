@@ -1,13 +1,13 @@
 ---
 layout: assignment
 permalink: /Assignments/Warmup
-title: "CS173: Intro to Computer Science - Warmup"
-excerpt: "CS173: Intro to Computer Science - Warmup"
+title: "APCSA: Intro to Computer Science - Warmup"
+excerpt: "APCSA: Intro to Computer Science - Warmup"
 
 info:
-  coursenum: CS173
+  coursenum: APCSA
   officehourspoll: "https://www.when2meet.com/?9311271-8GY4a"
-  class_notebook: "https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS173%20Fall%202020"
+  class_notebook: "https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/APCSA%20Fall%202020"
   class_notebook_name: "OneNote"
   chatlink: "https://groupme.com/join_group/60668915/dGoprIMb"
   chatname: "GroupMe"

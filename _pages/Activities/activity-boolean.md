@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Boolean
-title: "CS173: Intro to Computer Science - Boolean Expressions"
-excerpt: "CS173: Intro to Computer Science - Boolean Expressions"
+title: "APCSA: Intro to Computer Science - Boolean Expressions"
+excerpt: "APCSA: Intro to Computer Science - Boolean Expressions"
 
 info:
   goals: 

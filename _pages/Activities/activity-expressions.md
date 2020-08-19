@@ -1,8 +1,8 @@
 ---
 layout: activity
 permalink: /Activities/Expressions
-title: "CS173: Intro to Computer Science - Expressions"
-excerpt: "CS173: Intro to Computer Science - Expressions"
+title: "APCSA: Intro to Computer Science - Expressions"
+excerpt: "APCSA: Intro to Computer Science - Expressions"
 
 info:
   goals: 
