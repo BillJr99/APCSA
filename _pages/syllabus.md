@@ -73,11 +73,11 @@ schedule:
   readings:
     - rtitle: "Runestone 1.2 through 1.6"
     - rtitle: Complete the pre-test
-    - rtitle: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html
+    - rtitle: Intro to Java
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html
-    - rtitle: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-6-casting.html
+    - rtitle: Casting between Types
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-6-casting.html
-    - rtitle: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-4-assignment.html
+    - rtitle: Assignment Statements
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-4-assignment.html
 - week: "0"
   date: "0"
