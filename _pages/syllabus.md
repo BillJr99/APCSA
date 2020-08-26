@@ -83,6 +83,9 @@ schedule:
   date: "0"
   title: "Morning: Expressions"
   link: "Activities/Expressions"
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-4-assignment.html	
+      rtitle: Expressions and Assignments  
 - week: "0"
   date: "0"
   title: "Morning: Discrete Data Ranges"
@@ -90,43 +93,127 @@ schedule:
 - week: "0"
   date: "0"
   title: "Afternoon: Boolean Expressions"
-  link: "Activities/Boolean"    
+  link: "Activities/Boolean" 
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-1-booleans.html
+      rtitle: Booleans
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-6-DeMorgan.html 
+      rtitle: DeMorgan's Laws   
 - week: "0"
   date: "0"
   title: "Afternoon: Conditionals"
-  link: "Activities/Conditionals"  
+  link: "Activities/Conditionals" 
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-2-ifs.html
+      rtitle: The <code>if</code> Statement 
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-2-ifs.html
+      rtitle: The <code>if</code> Statement
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-3-if-else.html
+      rtitle: The <code>if</code>/<code>else</code> Statement 
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-4-else-ifs.html
+      rtitle: <code>if</code>/<code>else if</code> Statements
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-5-compound-ifs.html 
+      rtitle: Compound <code>if</code> Statements      
 - week: "0"
   date: "0"
   title: "Afternoon: Functions"
-  link: "Activities/Functions"  
+  link: "Activities/Functions"
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-6-casting.html 
+      rtitle: Type Casting
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-3-methods-no-params.html
+      rtitle: Calling Functions with no Parameters
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-4-methods-with-params.html
+      rtitle: Calling Functions with Parameters
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-5-methods-return.html
+      rtitle: Function Return Values  
 - week: "2"
   date: "0"
   title: "Morning: Iteration"
-  link: "Activities/Iteration"   
+  link: "Activities/Iteration"  
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-2-for-loops.html
+      rtitle: <code>for</code> Loops  
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-1-while-loops.html
+      rtitle: <code>while</code> Loops    
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-3-strings-loops.html 
+      rtitle: <code>String</code> Loops       
 - week: "2"
   date: "0"
   title: "Afternoon: Classes"
   link: "Activities/Classes"  
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-1-objects-intro-turtles.html
+      rtitle: Objects    
 - week: "2"
   date: "0"
   title: "Afternoon: Strings"
-  link: "Activities/Strings"    
+  link: "Activities/Strings" 
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-6-strings.htm	
+      rtitle: Strings
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-7-string-methods.html
+      rtitle: String Methods  
 - week: "6"
   date: "0"
   title: "Morning: Arrays"
   link: "Activities/Arrays"  
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/topic-6-1-array-basics.html
+      rtitle: Array Basics 
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/topic-6-2-traversing-arrays.html
+      rtitle: Traversing Arrays   
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/topic-8-1-2D-arrays.html
+      rtitle: 2D Arrays
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/topic-8-2-2D-array-loops.html
+      rtitle: Loops with 2D Arrays  
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/topic-6-3-arrays-with-foreach.html 
+      rtitle: The Enhanced <code>for</code> Loop
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-1-arraylist-basics.html
+      rtitle: The <code>ArrayList</code>
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-2-arraylist-methods.html
+      rtitle: <code>ArrayList</code> Methods
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-3-arraylist-loops.html 
+      rtitle: Loops with the <code>ArrayList</code>      
 - week: "6"
   date: "0"
   title: "Afternoon: Searching and Sorting"
   link: "Activities/SearchingAndSorting"
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-5-searching.html 
+      rtitle: Searching
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-6-sorting.html 
+      rtitle: Sorting  
 - week: "6"
   date: "0"
   title: "Afternoon: Recursion"
-  link: "Activities/Recursion"   
+  link: "Activities/Recursion"
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-6-sorting.html 
+      rtitle: Sorting
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion.html
+      rtitle: Recursion
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-2-recursive-search-sort.html 
+      rtitle: Recursive Searching and Sorting    
 - week: "8"
   date: "0"
   title: "Morning: Inheritance"
   link: "Activities/Inheritance"
+  readings:
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-1-inheritance.html
+      rtitle: Inheritance
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-5-hierarchies.html 
+      rtitle: Inheritance Hierarchies
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-6-polymorphism.html 
+      rtitle: Polymorphism
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-2-constructors.html
+      rtitle: Constructors with Inheritance
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-3-overriding.html 
+      rtitle: Overriding Methods
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-4-super.html
+      rtitle: The <code>super</code> Keyword
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-7-Object.html 
+      rtitle: Object Inheritance  
 - week: "8"
   date: "0"
   title: "Afternoon: Review, Pedagogy, and Teaching Resources"
