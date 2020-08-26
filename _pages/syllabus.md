@@ -8,7 +8,7 @@ info:
   course_number: APCSA
   course_title: "AP Computer Science A"
   course_homepage: "https://www.billmongan.com/APCSA/"
-  course_start_date: "2020/09/17"
+  course_start_date: "2020/09/14"
   course_end_date: "2020/10/29"
   course_description: "The AP Computer Science A Workshop will help prepare teachers to teach AP Computer Science, including detailed practice on the programming concepts covered on the AP Exam.  In addition, we will review and practice pedagogical strategies for teaching Computer Science and programming, with a particular emphasis on tools to aid in teaching remotely.  Topics will include an introduction to the Java programming language, variables, conditionals, loops, objects, Strings, arrays, algorithms (including searching and sorting), inheritance, teaching strategies, and tools for remote collaborative learning.  The workshop will be held virtually, bi-weekly from September 17, 2020 through October 29, 2020, for 7 hours per day (8:30 AM to 3:30 PM)."
   class_meets_days:
