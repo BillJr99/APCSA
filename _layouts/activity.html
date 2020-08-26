@@ -101,6 +101,42 @@ embed_directions: "You can try out some code examples in this embedded developme
     
     {{ content }} 
     
+    {% if page.info.try_partner %}
+    <h1>Try It with a Partner</h1>
+    <ul>
+    {% for entry in page.info.try_partner %}
+    <li>{{entry}}</li>
+    {% endfor %}
+    </ul>
+    {% endif %} 
+
+    {% if page.info.try_own %}
+    <h2>Try It on Your Own</h2>
+    <ul>
+    {% for entry in page.info.try_own %}
+    <li>{{entry}}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}     
+
+    {% if page.info.teacher_highlights %}
+    <h2>Teacher Highlights</h2>
+    <ul>
+    {% for entry in page.info.teacher_highlights %}
+    <li>{{entry}}</li>
+    {% endfor %}
+    </ul>    
+    {% endif %}
+    
+    {% if page.info.exit_ticket %}
+    <h2>Exit Ticket</h2>
+    <ul>
+    {% for entry in page.info.exit_ticket %}
+    <li>{{entry}}</li>
+    {% endfor %}
+    </ul>        
+    {% endif %}    
+    
     {% if page.info.reflective_prompts %}
     <h2>Reflective Journal Prompt</h2>
     <ol>
@@ -124,41 +160,5 @@ embed_directions: "You can try out some code examples in this embedded developme
     {% endfor %}
     </ul>
     {% endif %} 
-    
-    {% if page.info.try_partner %}
-    <h1>Try It with a Partner</h1>
-    <ul>
-    {% for entry in page.info.try_partner %}
-    <li>{{entry}}</li>
-    {% endfor %}
-    </ul>
-    {% endif %} 
-
-    {% if page.info.try_own %}
-    <h1>Try It on Your Own</h1>
-    <ul>
-    {% for entry in page.info.try_own %}
-    <li>{{entry}}</li>
-    {% endfor %}
-    </ul>
-    {% endif %}     
-
-    {% if page.info.teacher_highlights %}
-    <h1>Teacher Highlights</h1>
-    <ul>
-    {% for entry in page.info.teacher_highlights %}
-    <li>{{entry}}</li>
-    {% endfor %}
-    </ul>    
-    {% endif %}
-    
-    {% if page.info.exit_ticket %}
-    <h1>Exit Ticket</h1>
-    <ul>
-    {% for entry in page.info.exit_ticket %}
-    <li>{{entry}}</li>
-    {% endfor %}
-    </ul>        
-    {% endif %}
   </div>
 </div>
