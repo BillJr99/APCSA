@@ -16,7 +16,7 @@ info:
     isT: false
     isW: false
     isR: true
-    isF: true 
+    isF: false 
     isS: false
     isU: false
   class_meets_locations:
