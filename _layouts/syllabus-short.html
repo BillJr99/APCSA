@@ -1,0 +1,482 @@
+---
+layout: default
+---
+
+<!-- 
+  Adapted from https://raw.githubusercontent.com/DS4PS/course-template/master/_layouts/index.html
+  https://stackoverflow.com/questions/5619202/converting-a-string-to-a-date-in-javascript
+  https://www.w3resource.com/javascript-exercises/javascript-date-exercise-42.php
+  https://stackoverflow.com/questions/4822852/how-to-get-the-day-of-week-and-the-month-of-the-year
+  https://www.oreilly.com/library/view/amazon-hacks/0596005423/ch01s07.html
+  https://stackoverflow.com/questions/48246538/wider-body-in-a-github-pages-site
+-->
+<script language="JavaScript">
+	function strtodate(x) {
+		var parts = x.split('/');
+		var mydate = new Date(parts[0], parts[1] - 1, parts[2]); 
+		return mydate;
+	}
+	
+	function addweeks(dt, n) 
+	{
+		return new Date(dt.setDate(dt.getDate() + (n * 7)));      
+	}
+	
+	function adddays(dt, n)
+	{
+		return new Date(dt.setDate(dt.getDate() + (n))); 
+	}
+	
+	function getdayofweek(dt)
+	{
+		var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
+		var day = days[ dt.getDay() ];
+		
+		return day;
+	}
+	
+	function getmonthofyear(dt)
+	{
+		var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+
+		var month = months[ dt.getMonth() ];
+		
+		return month;
+	}
+	
+	function getDateString(dt)
+	{
+		var prnDt =  getdayofweek(dt) + ", " + getmonthofyear(dt) + " " + dt.getDate() + ", " + dt.getFullYear();
+		return prnDt;
+	}
+	
+	function getDayNum(dayidx, M, T, W, R, F, S, U) {
+		var daynum = 0;
+		
+		if(M == true) {
+			dayidx--;
+			
+			if(dayidx == -1) {
+				daynum = 0;
+			}
+		}
+		
+		if(T == true) {
+			dayidx--;
+			
+			if(dayidx == -1) {
+				daynum = 1;
+			}				
+		}
+
+		if(W == true) {
+			dayidx--;
+			
+			if(dayidx == -1) {
+				daynum = 2;
+			}				
+		}	
+
+		if(R == true) {
+			dayidx--;
+			
+			if(dayidx == -1) {
+				daynum = 3;
+			}				
+		}				
+		
+		if(F == true) {
+			dayidx--;
+			
+			if(dayidx == -1) {
+				daynum = 4;
+			}				
+		}
+		
+		if(S == true) {
+			dayidx--;
+			
+			if(dayidx == -1) {
+				daynum = 5;
+			}				
+		}
+		
+		if(U == true) {
+			dayidx--;
+			
+			if(dayidx == -1) {
+				daynum = 6;
+			}				
+		}
+		
+		return daynum;
+	}
+	
+	function getCourseDate(startdate, weeknum, dayidx, M, T, W, R, F, S, U)
+	{
+		var dt = strtodate(startdate);
+		
+		weeknum = parseInt(weeknum);
+		dayidx = parseInt(dayidx);
+
+		dt = addweeks(dt, weeknum);
+		
+		daynum = getDayNum(dayidx, M, T, W, R, F, S, U);
+		
+		dt = adddays(dt, daynum);
+		
+		return getDateString(dt);
+	}
+    
+    function getFullDay(d) {
+        if(d == "M") return "Monday";
+        if(d == "T") return "Tuesday";
+        if(d == "W") return "Wednesday";
+        if(d == "R") return "Thursday";
+        if(d == "F") return "Friday";
+        if(d == "S") return "Saturday";
+        if(d == "U") return "Sunday";
+        return "Day";
+    }
+</script>
+
+
+
+<div id="main" role="main">
+  <div class="archive">
+    <h1 class="page__title">{{ page.title }}</h1>
+    
+    [ <a href="#courseinfo">Course Info</a> | <a href="#objectives">Course Objectives and Goals</a> | <a href="#resources">Resources</a> | <a href="#instructors">Instructors</a> | <a href="#textbooks">Textbooks</a> | <a href="#schedule">Schedule</a> |{% if page.grade_breakdown %} <a href="#grading">Grading</a> |{% endif%} <a href="#policies">Course Policies</a> | <a href="#mainbody">Course Details</a> ]
+    <br><br>
+
+
+    
+    {% if page.info.banner %}
+    <div style="clear: both;">
+    {{ page.info.banner }}
+    </div>
+    {% endif %}
+
+
+
+    {% if page.info.welcome_message %}
+    {{ page.info.welcome_message }}
+    {% endif %}
+    
+
+
+    <a name="courseinfo"></a>
+    <h2>Course Info</h2> 
+ 
+    <ul>
+
+    {% if page.info.course_number and page.info.course_title %}
+    <li><strong>Course Number and Title:</strong> {{page.info.course_number}} - {{page.info.course_title}}
+    {% endif %}
+    
+    {% if page.permalink %}
+    <li><strong>Course Webpage:</strong> <a href="{{site.baseurl}}">{{site.url}}{{site.baseurl}}</a></li>
+    <br>
+    {% endif %}
+    
+
+
+    {% if page.info.course_description %}
+    <li><strong>Course Description</strong>: {{ page.info.course_description }}</li>
+    {% endif %}    
+    
+    </ul>
+
+
+
+
+    <a name="objectives"></a>
+    <h2>Course Learning Objectives and Learning Goals</h2>
+    
+    
+    
+    <h3>Learning Objectives</h3>
+    {% if page.objectives %}
+    <ol>
+    {% endif %}
+
+    {% for item in page.objectives %}
+    <li>{{ item.objective }}</li>
+    {% endfor %}
+
+    {% if page.objectives %}
+    </ol>
+    {% endif %}
+
+
+
+    <h3>Learning Goals</h3>
+    {% if page.goals %}
+    <ol>
+    {% endif %}
+
+    {% for item in page.goals %}
+    <li>{{ item.goal }}</li>
+    {% endfor %}
+
+    {% if page.goals %}
+    </ol>
+    {% endif %}
+    
+    
+
+    <a name="instructors"></a>
+    <h2>Course Instructors</h2>
+
+    <table id="instructorstable" class="table table-condensed" cellspacing="10">
+    <thead>
+    <tr>
+    <th><span><strong>Role</strong></span></th>
+    <th><span><strong>Name and Contact Information</strong></span></th>
+    </tr>
+    </thead>
+
+    <tbody>
+
+    {% for item in page.instructors %}
+
+    <tr>
+    <td>
+    {% if item.title %}
+    {{ item.title }}
+    {% endif %}
+    </td>
+    <td>
+    {% if item.webpage_url %}
+      <a href="{{item.webpage_url}}">
+    {% endif %}
+    
+    {{item.name}}
+    
+    {%if item.picture and item.title and item.name %}
+    <br>
+    <img src="{{ item.picture }}" alt="Picture of {{ item.title }} {{ item.name }}">
+    {% endif %}
+
+    {% if item.webpage_url %}
+      </a>
+    {% endif %}
+    {% if item.phone %}<br>Phone: {{item.phone}}{% endif %}
+    {% if item.email %}<br>E-Mail: <a href="mailto:{{item.email}}" title="email">{{item.email}}</a> {% endif %}
+    {% if item.office %}<br>Office: {{item.office}} {% endif %}
+    </td>
+    </tr>
+
+    {% endfor %}
+
+    </tbody>
+    </table>
+
+
+
+
+
+
+
+    <a name="textbooks"></a>
+    <h2>Textbooks</h2>
+    <table  id="textbookstable" class="table table-condensed" cellspacing="10">
+    <thead>
+    <tr>
+    <th><span><strong>Required?</strong></span></th>
+    <th><span><strong>Title</strong></span></th>
+    <th><span><strong>Author</strong></span></th>
+    <th><span><strong>Edition</strong></span></th>
+    <th><span><strong>ISBN</strong></span></th>
+    <th><span><strong>Freely Available?</strong></span></th>
+    </tr>
+    </thead>
+
+    <tbody>
+    {% for item in page.textbooks %}
+    <tr align="left">
+    <td align="left">
+    {% if item.isrequired %}
+        Required
+    {% else %}
+        Recommended / Supplemental
+    {% endif %}
+    </td>
+    
+    <td align="left">
+    {% if item.title or item.image %}
+      {% if item.link %}
+        <a href="{{ item.link }}">
+      {% endif %}
+      
+      {% if item.image %}
+      <center><img src="{{item.image}}" alt="Picture of the cover of the book entitled {{item.title}}"></center> 
+      <br>     
+      {% endif %}
+      {{item.title}}
+      
+      {% if item.link %}
+        </a>
+      {% endif %}
+    {% endif %}    
+    </td>
+      
+    <td>
+    {% if item.authors %}      
+      {{item.authors}}
+    {% endif %}
+    </td>
+
+    <td>
+    {% if item.edition %}
+      {{item.edition}}
+    {% endif %}
+    </td>
+
+    <td>
+    {% if item.isbn %}
+      {{item.isbn}}
+    {% endif %}
+    </td>
+    
+    <td>
+    {% if item.freelyavailable %}
+      <a href="{{item.freelyavailable}}">Online Version</a>
+    {% endif %}
+
+    </tr>
+    {% endfor %}
+    </tbody>
+    </table>
+    
+
+
+
+
+    <a name="schedule"></a>
+    <h2>Course Schedule</h2>    
+
+    {% if page.schedule %}    
+    <table  id="scheduletable" class="table table-condensed" cellspacing="10">
+    <thead>
+    <tr>
+    <th><span><strong>Week</strong></span></th>
+    <th><span><strong>Date</strong></span></th>
+    <th><span><strong>Title</strong></span></th>
+    <th><span><strong>Readings</strong></span></th>
+    <th><span><strong>Deliverables</strong></span></th>
+    </tr>
+    </thead>
+
+    <tbody>
+    {% for item in page.schedule %}
+    <tr align="left">
+
+    <td align="left">
+    <!-- Assumes week numbers are counted from 0 in the markdown definition to facilitate date calculation -->
+    {% assign week_num = item.week | to_integer %}
+    <strong>Week {{ week_num | plus: 1 }}</strong>
+    </td>
+
+    <td align="left">
+    <strong><script language="JavaScript">document.write(getCourseDate("{{page.info.course_start_date}}", "{{item.week}}", "{{item.date}}", {{page.info.class_meets_days.isM}}, {{page.info.class_meets_days.isT}}, {{page.info.class_meets_days.isW}}, {{page.info.class_meets_days.isR}}, {{page.info.class_meets_days.isF}}, {{page.info.class_meets_days.isS}}, {{page.info.class_meets_days.isU}}));</script></strong>
+    </td>
+
+    <td align="left">
+    {% if item.title %}
+    {% if item.link %}<a href="{{item.link}}">{% endif %}
+    {{ item.title }}
+    {% if item.link %}</a>{% endif %}
+    {% endif %}
+    </td>
+
+    <td align="left">
+    {% if item.readings %}
+    <ul>
+    {% endif %}
+
+    {% for reading in item.readings %}
+    <li>
+    {% if reading.rlink %}
+    <a href="{{reading.rlink}}">
+    {% endif %}
+    {{reading.rtitle}}
+    {% if reading.rlink %}
+    </a>
+    {% endif %}
+    </li>
+    {% endfor %}
+
+    {% if item.readings %}
+    </ul>
+    {% endif %}
+    </td>
+
+    <td align="left">
+    {% if item.deliverables %}
+    <ul>
+    {% endif %}
+    {% for deliverable in item.deliverables %}
+    <li>
+    {% if deliverable.dlink %}
+    <a href="{{deliverable.dlink}}">
+    {% endif %}
+    {{deliverable.dtitle}}
+    {% if deliverable.dlink %}
+    </a>
+    {% endif %}
+    </li>
+    {% endfor %}
+
+    {% if item.deliverables %}
+    </ul>
+    {% endif %}
+    </td>
+
+    </tr>
+    {% endfor %}
+
+    </table>  
+    {% endif %}
+    
+    {% if page.university.semester == "Fall" and page.university.fallholidays %}
+    Please note the following holidays this term:
+    <ul>
+    {% for holiday in page.university.fallholidays %}
+    <li><script language="JavaScript">document.write(getDateString(strtodate("{{holiday.date}}")));</script></li>
+    {% endfor %}
+    </ul>
+    {% elsif page.university.semester == "Spring" and page.university.springholidays %}
+    Please note the following holidays this term:
+    <ul>
+    {% for holiday in page.university.springholidays %}
+    <li><script language="JavaScript">document.write(getDateString(strtodate("{{holiday.date}}")));</script></li>
+    {% endfor %}
+    </ul>    
+    {% endif %}
+    
+    {% if page.university and page.university.semester %}
+    Please note the following key calendar dates:
+
+    {% if page.university.semester == "Fall" and page.university.fall %}
+    <ul>
+    {% for keydate in page.university.fall %}
+    {% if keydate.kdisplay == true %}<li><strong>{{keydate.kname}}</strong>: <script language="JavaScript">document.write(getDateString(strtodate("{{keydate.kdate}}")));</script></li>{% endif %}
+    {% endfor %}
+    </ul>
+    {% elsif page.university.semester == "Spring" and page.university.spring %}
+    <ul>
+    {% for keydate in page.university.spring %}
+    {% if keydate.kdisplay == true %}<li><strong>{{keydate.kname}}</strong>: <script language="JavaScript">document.write(getDateString(strtodate("{{keydate.kdate}}")));</script></li>{% endif %}
+    {% endfor %}
+    </ul>   
+    {% endif %}       
+    {% endif %}
+    
+    
+    <a name="mainbody"></a>
+    <h1>Course Details</h1>
+    {{ content }} 
+  </div>
+</div>
