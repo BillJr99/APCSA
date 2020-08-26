@@ -21,8 +21,48 @@ info:
     - title: "Hello World"
       model: |
         <img src="../images/examples/helloworld_annotated.png" alt="Annotated Hello World Java program example">
+        <br>
+        <img src="../images/examples/progelements.png" alt="Elements of a Java program">
+        <br>
+        <table>
+        <thead>
+          <tr>
+            <th>Character</th>
+            <th>Name</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{ }</td>
+            <td>Opening and closing braces</td>
+            <td>Block to enclose statements</td>
+          </tr>
+          <tr>
+            <td>( )</td>
+            <td>Opening and closing parenthesis</td>
+            <td>Used with methods</td>
+          </tr>
+          <tr>
+            <td>[ ]</td>
+            <td>Opening and closing brackets</td>
+            <td>Used with arrays</td>
+          </tr>
+          <tr>
+            <td>//<br>/* */</td>
+            <td>Slashes</td>
+            <td>Comments (single line and double line)</td>
+          </tr>
+          <tr>
+            <td>;</td>
+            <td>Semicolon</td>
+            <td>End of a statement</td>
+          </tr>
+        </tbody>
+        </table>        
       questions: 
         - What do you think the curly braces represent and enclose?
+        - What character is used to end a statement of code within a method?
     - title: "Your First Program"
       model: |
         <script type="syntaxhighlighter" class="brush: cpp"><![CDATA[
@@ -35,7 +75,14 @@ info:
         }
         ]]></script> 
       questions: 
-        - What do you think the <code>//</code> characters represent?
+        - What do you think the <code>//</code> characters represent?  
+        - "Go to <a href=\"https://repl.it\">https://repl.it</a> and enter the code above into a file called <code>Main.java</code> (the filename is almost always the same as the class name, which we called <code>Main</code> in this example).  Click the \"Run\" button at the top to run the program."
+        - "You may have noticed two commands executed before the program ran and printed \"Hello world!\" - to execute a program with the java command, the code in each class must first be compiled using the javac command.  Development environments such as repl.it usually do these steps for you.  Note that you can run many of our code examples in repl.it or the <a href=\"https://cscircles.cemc.uwaterloo.ca/java_visualize/\">Java Visualizer</a><br><img src=\"../images/examples/compileprocess.png\" alt=\"The compilation process\">"
+        - "Change the code so that instead of printing \"Hello World!\" the code instead prints a greeting to your partner."  
+        - "Change the code to the following, and execute it.<br><img src=\"../images/examples/systemoutprint.png\" alt=\"Printing statements to the screen\">"   
+        - "What is the difference between <code>System.out.println()</code> and <code>System.out.print()</code>?  <strong>APCSA U1 Topic1.1 MOD 1.A.1 and MOD 1.A.2</strong>"
+        - "What is wrong with this program?  (Debug the program).<br><img src=\"../images/examples/syntaxerror.png\" alt=\"A program with an error\">"
+        - "Modify the program to produce the following output:<br><code>How are you?<br>Everything is going well.</code>"
     - title: Primitive Data Types
       model: |
         <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">

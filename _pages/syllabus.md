@@ -10,6 +10,7 @@ info:
   course_homepage: "https://www.billmongan.com/APCSA/"
   course_start_date: "2020/09/17"
   course_end_date: "2020/10/29"
+  course_description: "The AP Computer Science A Workshop will help prepare teachers to teach AP Computer Science, including detailed practice on the programming concepts covered on the AP Exam.  In addition, we will review and practice pedagogical strategies for teaching Computer Science and programming, with a particular emphasis on tools to aid in teaching remotely.  Topics will include an introduction to the Java programming language, variables, conditionals, loops, objects, Strings, arrays, algorithms (including searching and sorting), inheritance, teaching strategies, and tools for remote collaborative learning.  The workshop will be held virtually, bi-weekly from September 17, 2020 through October 29, 2020, for 7 hours per day (8:30 AM to 3:30 PM)."
   class_meets_days:
     isM: false
     isT: false
@@ -56,10 +57,13 @@ textbooks:
   freelyavailable: "https://runestone.academy/runestone/books/published/csawesome/index.html"
       
 objectives:
-- objective: ""
+- objective: "To To write programs using the Java programming language that demonstrate each of the concepts of the AP Computer Science A course, including primitive data types, classes, conditionals, iteration, classes, arrays, multidimensional arrays, the ArrayList, inheritance, recursion, and algorithms"
+- objective: "To develop teaching methods for exploring concepts of programming using programming and unplugged style activities, with an emphasis on recurring themes of modularity, control, variables, and impact"
+- objective: "To promote computational thinking practices expressed through the vehicle of programming according to the AP Computational Thinking Skills"
 
 goals:
-- goal: ""
+- goal: "To teach AP Computer Science A according to the standards set forth in the <a href=\"https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-and-exam-description.pdf?course=ap-computer-science-a\">AP Computer Science guide</a> and in relevant <a href=\"https://www.csteachers.org/page/standards\">CSTA recommended standards</a>"
+- goal: "To teach AP Computer Science with contextual emphasis on broader societal impacts and the ubiquitous reach of computing"
 
 schedule:
 - week: "0"
