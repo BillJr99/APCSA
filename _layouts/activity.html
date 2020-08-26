@@ -117,25 +117,7 @@ embed_directions: "You can try out some code examples in this embedded developme
     <li>{{entry}}</li>
     {% endfor %}
     </ul>
-    {% endif %}     
-
-    {% if page.info.teacher_highlights %}
-    <h2>Teacher Highlights</h2>
-    <ul>
-    {% for entry in page.info.teacher_highlights %}
-    <li>{{entry}}</li>
-    {% endfor %}
-    </ul>    
     {% endif %}
-    
-    {% if page.info.exit_ticket %}
-    <h2>Exit Ticket</h2>
-    <ul>
-    {% for entry in page.info.exit_ticket %}
-    <li>{{entry}}</li>
-    {% endfor %}
-    </ul>        
-    {% endif %}    
     
     {% if page.info.reflective_prompts %}
     <h2>Reflective Journal Prompt</h2>
@@ -144,6 +126,15 @@ embed_directions: "You can try out some code examples in this embedded developme
     <li>{{ prompt }}</li>
     {% endfor %}
     </ol>
+    {% endif %}       
+    
+    {% if page.info.exit_ticket %}
+    <h2>Exit Ticket</h2>
+    <ul>
+    {% for entry in page.info.exit_ticket %}
+    <li>{{entry}}</li>
+    {% endfor %}
+    </ul>        
     {% endif %}       
     
     {% if layout.submission %}
@@ -160,5 +151,14 @@ embed_directions: "You can try out some code examples in this embedded developme
     {% endfor %}
     </ul>
     {% endif %} 
+
+    {% if page.info.teacher_highlights %}
+    <h1>Teacher Highlights</h1>
+    <ul>
+    {% for entry in page.info.teacher_highlights %}
+    <li>{{entry}}</li>
+    {% endfor %}
+    </ul>    
+    {% endif %}  
   </div>
 </div>
