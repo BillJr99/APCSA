@@ -161,7 +161,9 @@ info:
   additional_practice:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html
       title: Mixed-Up Coding Practice
-
+  additional_reading:
+    - link: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-3-variables.html
+      title: "Read and watch the \"Variables\" Activity in Runestone"
 tags:
   - datatypes
   

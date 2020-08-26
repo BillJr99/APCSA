@@ -157,6 +157,10 @@ info:
         - What would happen if you attempt to divide by 0?  Feel free to try this in the code window below!
         - Notice the result of dividing <code>x / 2</code> if <code>x</code> is an <code>int</code>?  How about if <code>x</code> is a <code>double</code> or a <code>float</code>?
         - Suppose you had to divide two integers, but you want the result to be stored as a floating point value.  How could you ensure that this happens (there are several possibilities!)?
+        - In repl.it, write a program that declares a variable called <code>price</code> whose value is the price of a bunch of bananas (you can make up a value for this!).  Print out the value of <code>price</code>
+        - What data type should <code>price</code> be?
+        - Suppose your state charges sales tax on bananas at a rate of 6%.  Assign a variable called <code>finalPrice</code> to this value, and print that to the screen.
+        - Re-write the sales tax assignment statement using a compound operator (or, if you used a compound operator already, what is the equivalent non-compound statement)?
       embed: |
         <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaFirstExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>        
   additional_reading:

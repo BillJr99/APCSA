@@ -12,7 +12,14 @@ info:
     - To specify the manner in which escape characters are invoked
     - To apply escape characters where needed 
   models:
-    - title: "Special Characters"
+    - title: "Escape Characters"
+      model: |
+        <img src="../images/examples/escapechars.png" alt="Attempting to print a string with escape characters">
+      questions:
+        - What if you would like to print a quote which includes quotation marks? What would you do?  Create the program in the model and execute the program. 
+        - Let's modify the program by typing the statement below:<br><code>System.out.println("\"Picture your brain forming \n new connections...\"");</code><br>What was the result?  
+        - How would you create the output below using escape characters?<br><code>"Picture your brain forming new connections as you meet the challenge and learn.  Keep on going."<br>-Carol Dweck</code>
+    - title: "Printing Escape Characters"
       model: |
         <script type="syntaxhighlighter" class="brush: cpp"><![CDATA[
         public class Main {

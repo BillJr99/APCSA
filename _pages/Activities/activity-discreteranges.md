@@ -15,6 +15,8 @@ info:
     - To be able to evaluate what is stored in a variable as a result of an expression with an assignment statement. <strong>(APCSA Framework Topic 1.3 Con 1.B)</strong>
   models:
     - model: |
+        <i>Note: this is not required on the AP exam.</i>
+        <br>
         <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
         <div style="width: 100%; display: table-row; background-color: black; color: white;">
             <div style="display: table-cell; padding:5px; width:33%; background-color: black; color: white;">
@@ -93,6 +95,8 @@ info:
         - Similarly, there is a larger version of the <code>int</code> data type called the <code>long</code>.  How many bits do you think this type uses, and how many values can it contain?
         - Which of the data types above has a variable rather than fixed length?  With this in mind, what do you think is the purpose of storing the extra <code>0</code> at the end of values of that type?  
     - model: |
+        <i>Note: this is not required on the AP exam.</i>
+        <br>
         <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
         <div style="width: 100%; display: table-row; background-color: black; color: white;">
             <div style="display: table-cell; padding:5px; width:25%; background-color: black; color: white;">
@@ -250,6 +254,24 @@ info:
   reflective_prompts: 
     - Numeric data types must hold not only positive values but also negative values.  What does this do to the number of positive values that can be represented by each type?  What are their ranges?
 
+  exit_ticket:
+    - You can schedule a post assessment using AP Classroom. - Personal Check 1
+    - You can select questions for mini quizzes or exit tickets using the AP Classroom.
+    - You can also use the BJP questions as warm-ups, do-nows, or extended practice.
+    
+  teacher_highlights:
+    - What is the difference between <code>System.out.println()</code> and <code>System.out.print()</code>?
+    
+  try_partner:
+    - "Variables and Assignments Review (Part 1.8.1): <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html\">https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html</a>"
+    
+  try_own:
+    - "Variables and Assignments Review (Part 1.8.2): <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/to\">https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/to</a>"
+    - "Practice Coding: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html\">https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html</a>"
+    - "BJP5 1.10 - Shaq: <a href=\"https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s10-Shaq\">https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s10-Shaq</a>"
+    - "BJP5 1.14 - testofKnowledge: <a href=\"https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s14-TestOfKnowledge\">https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s14-TestOfKnowledge</a>"
+    - "BJP5 1.15 - printlnSlashes: <a href=\"https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s15-printlnSlashes\">https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s15-printlnSlashes</a>"
+    - Write a program that displays the area of a circle that has radius 8.5 using the formula <span>\(A=\pi r^{2}\)</span>.  Identify the variables needed in your program.  What is the algorith?  What should the output display?
 tags:
   - datatypes
   - expressions
