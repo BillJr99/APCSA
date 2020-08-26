@@ -154,7 +154,7 @@ schedule:
       rtitle: Strings
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-7-string-methods.html
       rtitle: String Methods  
-- week: "6"
+- week: "4"
   date: "0"
   title: "Morning: Arrays"
   link: "Activities/Arrays"  
@@ -175,7 +175,7 @@ schedule:
       rtitle: <code>ArrayList</code> Methods
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-3-arraylist-loops.html 
       rtitle: Loops with the <code>ArrayList</code>      
-- week: "6"
+- week: "4"
   date: "0"
   title: "Afternoon: Searching and Sorting"
   link: "Activities/SearchingAndSorting"
@@ -184,7 +184,7 @@ schedule:
       rtitle: Searching
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-6-sorting.html 
       rtitle: Sorting  
-- week: "6"
+- week: "4"
   date: "0"
   title: "Afternoon: Recursion"
   link: "Activities/Recursion"
@@ -195,7 +195,7 @@ schedule:
       rtitle: Recursion
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-2-recursive-search-sort.html 
       rtitle: Recursive Searching and Sorting    
-- week: "8"
+- week: "6"
   date: "0"
   title: "Morning: Inheritance"
   link: "Activities/Inheritance"
@@ -214,7 +214,7 @@ schedule:
       rtitle: The <code>super</code> Keyword
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-7-Object.html 
       rtitle: Object Inheritance  
-- week: "8"
+- week: "6"
   date: "0"
   title: "Afternoon: Review, Pedagogy, and Teaching Resources"
   
