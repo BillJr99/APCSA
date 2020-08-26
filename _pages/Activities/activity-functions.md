@@ -11,6 +11,10 @@ info:
     - To be able to call methods in various configurations (parameters, return values)
   models:
     - model: |
+        <img src="../images/examples/functionparams.png" alt="Anatomy of a Function Call">
+        <br>
+        <img src="../images/examples/functioncall.png" alt="Control Flow Illustration">
+        <br>
         <script type="syntaxhighlighter" class="brush: cpp"><![CDATA[
         public class Main {
             /* Return the area of a circle, given its radius
@@ -98,6 +102,12 @@ info:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-5-methods-return.html
       title: Function Return Values
 
+  try_partner:
+    - "Conditionals: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-10-practice-coding.html\"></a>"
+  try_own:
+    - "Points on a Line: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/APLine.html
+\"></a>"
+    
 tags:
   - functions
   - expressions
