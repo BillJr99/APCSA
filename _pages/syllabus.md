@@ -68,6 +68,10 @@ goals:
 schedule:
 - week: "0"
   date: "0"
+  title: "Welcome to the APCSA Workshop"
+  link: "https://docs.google.com/presentation/d/1P3KEKVl9MjjlBCuI9_tMYW9Jq8dPegpBmvaib1PpWV8/edit"
+- week: "0"
+  date: "0"
   title: "Morning: Introduction to Programming"
   link: "Activities/DataTypes"
   readings:
