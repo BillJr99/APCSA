@@ -11,7 +11,7 @@ info:
     - To be able to override a method from a superclass.
     - To be able to call <code>super()</code> in a constructor or method.
     - To be able to explain the difference between an interface, an abstract class, and a superclass.
-    - To be able to inherit protected methods or fields from a superclass.
+    - To be able to inherit <code>protected</code> methods or fields from a superclass.
     
   models:
     - model: |
@@ -319,6 +319,12 @@ info:
         - From context, what do you think the call to <code>super()</code> does?
         - Notice that some elements are scoped to be <code>public</code> and <code>private</code>, like before, but now some items are <code>protected</code>.  Which items are <code>protected</code>, and in which files do they reside?  What do you think this scope allows/disallows?      
       
+  try_partner:
+    - "implementing Subclasses: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/ooCodePractice.html">https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/ooCodePractice.html</a>"
+
+  try_own:
+    - "Cafeteria Manager: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/TrioA.html">https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/TrioA.html</a>"
+      
   additional_reading:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-1-inheritance.html
       title: Inheritance
@@ -342,10 +348,6 @@ info:
       title: Medium Difficulty Inheritance Questions
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/ooHardMC.html 
       title: More Challenging Inheritance Questions
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/ooCodePractice.html
-      title: implementing Subclasses
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/TrioA.html
-      title: Cafeteria Manager
       
 tags:
   - classes
