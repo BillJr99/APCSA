@@ -49,7 +49,12 @@ info:
       questions:
         - "For what values of <code>i</code> will the character <code>&lsquo;t&rsquo;</code> be found in this <code>String</code>?  You may find the <a href=https://cscircles.cemc.uwaterloo.ca/java_visualize/>Java Visualizer</a> or your IDE debugger helpful."
         - "Write a function that accepts a <code>String x</code>, a <code>char c</code>, and an <code>int n</code>.  Return the index of the <code>n&rsquo;th</code> instance of the character <code>c</code> in the <code>String x</code>.  Use the <code>indexOf()</code> method in a loop."
-        
+  try_partner:
+    - "Iteration: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-8-practice-coding.html\">https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-8-practice-coding.html</a>"
+
+  try_own:
+    - "Self Divisors using the Modulus, Loops, and Conditionals: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQselfDivisorA.html\">https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQselfDivisorA.html</a>"
+  
 tags:
   - iterations
   - strings

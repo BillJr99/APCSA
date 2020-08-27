@@ -43,6 +43,16 @@ info:
       title: Classes
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/Exercises.html
       title: Objects
+    - link: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-2-constructors.html
+      title: Constructors
+    - link: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-8-IntegerDouble.html
+      title: <code>Integer</code> and <code>Double</code> Wrapper Classes    
+    - link: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-7-comparing-objects.html 
+      title: Comparing Objects
+    - link: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-1-parts-of-class.html
+      title: Parts of a Class    
+    - link: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-2-writing-constructors.html 
+      title: Writing Constructors
 
 tags:
   - classes

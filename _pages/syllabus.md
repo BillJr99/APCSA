@@ -135,7 +135,9 @@ schedule:
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-2-for-loops.html
       rtitle: <code>for</code> Loops  
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-1-while-loops.html
-      rtitle: <code>while</code> Loops    
+      rtitle: <code>while</code> Loops 
+    - rtitle: Nested Loops
+      rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-4-nested-loops.html    
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-3-strings-loops.html 
       rtitle: <code>String</code> Loops       
 - week: "2"
@@ -144,7 +146,27 @@ schedule:
   link: "Activities/Classes"  
   readings:
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-1-objects-intro-turtles.html
-      rtitle: Objects    
+      rtitle: Objects  
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-2-constructors.html
+      rtitle: Constructors
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-8-IntegerDouble.html
+      rtitle: <code>Integer</code> and <code>Double</code> Wrapper Classes    
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-7-comparing-objects.html 
+      rtitle: Comparing Objects
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-1-parts-of-class.html
+      rtitle: Parts of a Class    
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-2-writing-constructors.html 
+      rtitle: Writing Constructors
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-4-accessor-methods.html
+      rtitle: Accessor Methods
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-5-mutator-methods.html
+      rtitle: Mutator Methods
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-6-writing-methods.html
+      rtitle: Writing Methods   
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-8-scope-access.html 
+      rtitle: Scope Access
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-7-static-vars-methods.html
+      rtitle: The <code>static</code> Keyword    
 - week: "2"
   date: "0"
   title: "Afternoon: Strings"
@@ -219,3 +241,4 @@ schedule:
   title: "Afternoon: Review, Pedagogy, and Teaching Resources"
   
 ---
+Welcome!
