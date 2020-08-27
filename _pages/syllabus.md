@@ -69,7 +69,10 @@ schedule:
 - week: "0"
   date: "0"
   title: "Welcome to the APCSA Workshop"
-  link: "https://docs.google.com/presentation/d/1P3KEKVl9MjjlBCuI9_tMYW9Jq8dPegpBmvaib1PpWV8/edit"
+  link: "https://docs.google.com/presentation/d/1P3KEKVl9MjjlBCuI9_tMYW9Jq8dPegpBmvaib1PpWV8/edit?usp=sharing"
+  deliverables:
+    - dtitle: Complete the pre-survey
+      dlink: https://docs.google.com/forms/d/e/1FAIpQLSeFsPQ2uyQOSzh9BvbNXnyRdLmw6fCzCLeXHBGHwxqODf2M_w/viewform?usp=sf_link  
 - week: "0"
   date: "0"
   title: "Morning: Introduction to Programming"
@@ -82,9 +85,6 @@ schedule:
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-6-casting.html
     - rtitle: Assignment Statements
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-4-assignment.html
-  deliverables:
-    - dtitle: Complete the pre-test
-      dlink: https://docs.google.com/forms/d/e/1FAIpQLSeFsPQ2uyQOSzh9BvbNXnyRdLmw6fCzCLeXHBGHwxqODf2M_w/viewform?usp=sf_link
 - week: "0"
   date: "0"
   title: "Morning: Expressions"
