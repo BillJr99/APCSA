@@ -8,9 +8,9 @@ info:
   prev: ./Arrays3
   
   goals: 
-    - To be able to create, access, and iterate an ArrayList
-    - To be able to explain that an ArrayList is a dynamic array that allows for expansion at runtime
-    - To be able to dynamically grow and shrink an ArrayList
+    - To be able to create, access, and iterate an <code>ArrayList</code>
+    - To be able to explain that an <code>ArrayList</code> is a dynamic array that allows for expansion at runtime
+    - To be able to dynamically grow and shrink an <code>ArrayList</code>
     - To use objects such as the <code>ArrayList</code> that accept templated/generic data types
 
   models:
@@ -60,6 +60,33 @@ info:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-3-arraylist-loops.html 
       title: Loops with the <code>ArrayList</code>
     
+  try_partner:
+    - "Number Cube: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/numberCubeA.html">https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/numberCubeA.html</a>"
+    - "Number Cube (Longest Run): <a href="https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/numberCubeB.html">https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/numberCubeB.html</a>"
+    - "Greyscale Images (Counting White Pixels): <a href="https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/grayImageA.html">https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/grayImageA.html</a>"
+    - "Greyscale Images: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/grayImageB.html">https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/grayImageB.html</a>"
+    - "Horse Barn: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/horseBarnA.html">https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/horseBarnA.html</a>"
+    - "Horse Barn (Consolidation): <a href="https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/horseBarnB.html">https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/horseBarnB.html</a>"
+    - "Self Divisors: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/selfDivisorB.html">https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/selfDivisorB.html</a>"
+    - "Climbing Club: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubA.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubA.html</a>"
+    - "Climbing Club (Sorted): <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubB.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubB.html</a>"
+    - "Climbing Club (Distinct Names): <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubC.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubC.html</a>"
+    - "String Formatter: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/2016freeresponseQ4A.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/2016freeresponseQ4A.html</a>"
+    - "String Formatter (Gap Checker): <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/2016freeresponseQ4B.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/2016freeresponseQ4B.html</a>"
+      
+  try_own:
+    - "Route Cipher: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/routeCipherA.html">https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/routeCipherA.html</a>"
+    - "Route Cipher with Encryption: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/routeCipherB.html">https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/routeCipherB.html</a>"
+    - "Sound: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/soundA.html">https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/soundA.html</a>"
+    - "Sound (Trim Silence): <a href="https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/soundA.html">https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/soundA.html</a>"
+    - "Cookie Order: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/cookieOrderA.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/cookieOrderA.html</a>"
+    - "Cookie Order with Removal: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/cookieOrderB.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/cookieOrderB.html</a>"
+    - "Cookie Order with Removal: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/cookieOrderB.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/cookieOrderB.html</a>"
+    - "The <code>ArrayList</code>: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listPractice.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listPractice.html</a>"
+    - "<code>ArrayList</code> Questions: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listMedMC.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listMedMC.html</a>"
+    - "More Challenging Questions about the <code>ArrayList</code>: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listHardMC.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listHardMC.html</a>"
+    - "<code>ArrayList</code> Practice: <a href="https://repl.it/community/classrooms/20700/assignments/146519">https://repl.it/community/classrooms/20700/assignments/146519</a>" 
+      
   additional_practice:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listPractice.html
       title: The <code>ArrayList</code>
@@ -67,42 +94,6 @@ info:
       title: <code>ArrayList</code> Questions
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listHardMC.html
       title: More Challenging Questions about the <code>ArrayList</code>
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/numberCubeA.html
-      title: Number Cube
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/numberCubeB.html
-      title: Number Cube (Longest Run)
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/grayImageA.html
-      title: Greyscale Images (Counting White Pixels)
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/grayImageB.html
-      title: Greyscale Images
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/horseBarnA.html
-      title: Horse Barn
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/horseBarnB.html
-      title: Horse Barn (Consolidation)
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/selfDivisorB.html
-      title: Self Divisors
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubA.html
-      title: Climbing Club
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubB.html
-      title: Climbing Club (Sorted)
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/climbClubC.html
-      title: Climbing Club (Distinct Names)
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/2016freeresponseQ4A.html
-      title: String Formatter
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/2016freeresponseQ4B.html
-      title: String Formatter (Gap Checker)
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/routeCipherA.html
-      title: Route Cipher
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/routeCipherB.html
-      title: Route Cipher with Encryption
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/soundA.html
-      title: Sound
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/soundA.html
-      title: Sound (Trim Silence)
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/cookieOrderA.html
-      title: Cookie Order
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/cookieOrderB.html 
-      title: Cookie Order with Removal     
     - link: https://repl.it/community/classrooms/20700/assignments/146519
       title: <code>ArrayList</code> Practice    
       

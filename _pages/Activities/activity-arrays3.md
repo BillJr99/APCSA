@@ -49,7 +49,7 @@ info:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit8-2DArray/topic-8-2-2D-array-loops.html
       title: Loops with 2D Arrays
          
-  reflective_prompts:
+  try_partner:
     - How would you modify the above program to assign values to <code>mat1</code>, and then to multiply the two matrices together?  To multiply matrices, each cell of the result is equal to the products of each element of the corresponding column of <code>mat1</code> with each element of the corresponding row of <code>mat2</code>, added together.  A triply-nested loop with a sum is required.
     
   additional_practice:
