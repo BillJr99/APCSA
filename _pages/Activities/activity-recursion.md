@@ -115,13 +115,13 @@ info:
         - Enter the code for <a href=https://www.geeksforgeeks.org/merge-sort/>Merge Sort</a> into the <a href=https://cscircles.cemc.uwaterloo.ca/java_visualize/#mode=edit>Java Visualizer</a> and execute it step-by-step.        
   
   try_partner:
-    - "Recursive Base Cases: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/rBasePractice.html">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/rBasePractice.html</a>"
-    - "Recursion: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/recursionCodePractice.html">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/recursionCodePractice.html</a>"
-    - "Recursive Searching and Sorting: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-2-recursive-search-sort.html">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-2-recursive-search-sort.html</a>"
+    - "Recursive Base Cases: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/rBasePractice.html\">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/rBasePractice.html</a>"
+    - "Recursion: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/recursionCodePractice.html\">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/recursionCodePractice.html</a>"
+    - "Recursive Searching and Sorting: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-2-recursive-search-sort.html\">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-2-recursive-search-sort.html</a>"
       
   try_own:
-    - "Recursive Factorial Function: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion-day1.html#factorial-method">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion-day1.html#factorial-method</a>"
-    - "Recursion Tracing: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion-challenge.html">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion-challenge.html</a>"
+    - "Recursive Factorial Function: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion-day1.html#factorial-method\">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion-day1.html#factorial-method</a>"
+    - "Recursion Tracing: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion-challenge.html\">https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/topic-10-1-recursion-challenge.html</a>"
       
   additional_practice:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit10-Recursion/rEasyMC.html

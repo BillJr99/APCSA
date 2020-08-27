@@ -90,7 +90,7 @@ info:
         <br>
         <a title="Swfung8 / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Insertion-sort-example-300px.gif"><img width="256" alt="Insertion-sort-example-300px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif"></a>
         <br>
-        Consider the array defined in <a href="https://www.geeksforgeeks.org/insertion-sort/">this example</a>: [ 4, 3, 2, 10, 12, 1, 5, 6 ]
+        Consider the array defined in <a href=\"https://www.geeksforgeeks.org/insertion-sort/">this example</a>: [ 4, 3, 2, 10, 12, 1, 5, 6 ]
       title: <code>Insertion Sort</code>
       questions: 
         - Notice that the pseudocode for InsertionSort begins with <code>i = 1</code>, not <code>0</code>.  Why might this be?
@@ -122,8 +122,8 @@ info:
         - Describe the execution of <a href=https://www.geeksforgeeks.org/bubble-sort/>Bubble Sort</a> in your own words.
    
   try_partner:
-    - "Search Algorithms: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-5-searching.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-5-searching.html</a>"
-    - "Sorting Algorithms: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-6-sorting.html">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-6-sorting.html</a>"
+    - "Search Algorithms: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-5-searching.html\">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-5-searching.html</a>"
+    - "Sorting Algorithms: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-6-sorting.html\">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/topic-7-6-sorting.html</a>"
       
   additional_practice:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/ssEasyMC.html

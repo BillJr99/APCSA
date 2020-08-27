@@ -320,10 +320,10 @@ info:
         - Notice that some elements are scoped to be <code>public</code> and <code>private</code>, like before, but now some items are <code>protected</code>.  Which items are <code>protected</code>, and in which files do they reside?  What do you think this scope allows/disallows?      
       
   try_partner:
-    - "implementing Subclasses: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/ooCodePractice.html">https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/ooCodePractice.html</a>"
+    - "implementing Subclasses: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/ooCodePractice.html\">https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/ooCodePractice.html</a>"
 
   try_own:
-    - "Cafeteria Manager: <a href="https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/TrioA.html">https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/TrioA.html</a>"
+    - "Cafeteria Manager: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/TrioA.html\">https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/TrioA.html</a>"
       
   additional_reading:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit9-Inheritance/topic-9-1-inheritance.html

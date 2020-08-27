@@ -18,7 +18,7 @@ for line in sys.stdin:
         link = line.split("link:")[1].strip()
         
     if lineno == 1:
-        output = "- \"" + title + ": <a href=\"" + link + "\">" + link + "</a>\""
+        output = "- \"" + title + ": <a href=\\\"" + link + "\\\">" + link + "</a>\""
         outputs.append(output)
     
     lineno = lineno + 1
