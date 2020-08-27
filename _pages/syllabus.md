@@ -76,13 +76,15 @@ schedule:
   link: "Activities/DataTypes"
   readings:
     - rtitle: "Runestone 1.2 through 1.6"
-    - rtitle: Complete the pre-test
     - rtitle: Intro to Java
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html
     - rtitle: Casting between Types
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-6-casting.html
     - rtitle: Assignment Statements
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-4-assignment.html
+  deliverables:
+    - dtitle: Complete the pre-test
+      dlink: https://docs.google.com/forms/d/e/1FAIpQLSeFsPQ2uyQOSzh9BvbNXnyRdLmw6fCzCLeXHBGHwxqODf2M_w/viewform?usp=sf_link
 - week: "0"
   date: "0"
   title: "Morning: Expressions"
