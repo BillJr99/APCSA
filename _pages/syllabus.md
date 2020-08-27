@@ -138,8 +138,6 @@ schedule:
       rtitle: <code>while</code> Loops 
     - rtitle: Nested Loops
       rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-4-nested-loops.html    
-    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-3-strings-loops.html 
-      rtitle: <code>String</code> Loops       
 - week: "2"
   date: "0"
   title: "Afternoon: Classes"
@@ -175,7 +173,9 @@ schedule:
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-6-strings.htm	
       rtitle: Strings
     - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-7-string-methods.html
-      rtitle: String Methods  
+      rtitle: String Methods 
+    - rlink: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-3-strings-loops.html 
+      rtitle: <code>String</code> Loops             
 - week: "4"
   date: "0"
   title: "Morning: Arrays"

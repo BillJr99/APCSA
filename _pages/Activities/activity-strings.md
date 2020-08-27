@@ -5,11 +5,12 @@ title: "APCSA: Intro to Computer Science - Strings"
 excerpt: "APCSA: Intro to Computer Science - Strings"
 
 info:
+  next: ./StringIteration
+  
   goals: 
     - To be able to explain that a <code>String</code> is a class that stores text and provides functionality that manipulates that text.
     - To be able to explain that a <code>String</code> is immutable, and that new memory is allocated for a <code>String</code> when it is modified.
     - To be able to create and manipulate a <code>String</code>.
-    
     - To be able to invoke the <code>concat()</code>, <code>indexOf()</code>, <code>substring()</code> and <code>replace()</code> methods of a <code>String</code>.
   models:
     - title: "The <code>String</code>"
@@ -78,10 +79,15 @@ info:
       title: Mixed Case
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-12-practice-coding.html
       title: Coding with Objects
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQstringScrambleA.html
-      title: <code>String</code> Manipulation
     - link: https://repl.it/community/classrooms/20700/assignments/146564
-      title: <code>String</code> Pluralizer
+      title: <code>String</code> Pluralizer      
+    
+  try_partner:
+    - "<code>String</code> Manipulation: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQstringScrambleA.html\">https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQstringScrambleA.html</a>"
+
+  try_own:
+    - "Write a function that accepts two <code>String</code> parameters (<code>a</code> and <code>b</code>), and returns <code>true</code> if they contain the same text, or <code>false</code> otherwise."
+    
 tags:
   - strings
   

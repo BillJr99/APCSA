@@ -1,11 +1,11 @@
 ---
 layout: activity
-permalink: /Activities/Iteration3
+permalink: /Activities/StringIteration
 title: "APCSA: Intro to Computer Science - Iteration"
 excerpt: "APCSA: Intro to Computer Science - Iteration"
 
-info:
-  prev: ./Iteration2
+info:  
+  prev: ./Strings
   
   goals: 
     - To be able to apply iteration and conditionals to a <code>String</code>
@@ -51,6 +51,8 @@ info:
         - "Write a function that accepts a <code>String x</code>, a <code>char c</code>, and an <code>int n</code>.  Return the index of the <code>n&rsquo;th</code> instance of the character <code>c</code> in the <code>String x</code>.  Use the <code>indexOf()</code> method in a loop."
   try_partner:
     - "Iteration: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-8-practice-coding.html\">https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/topic-4-8-practice-coding.html</a>"
+    - "Write a function that accepts a String <code>x</code>, a <code>char</code> <code>c</code>, and an <code>int</code> <code>n</code>.  Return the index of the <code>n</code>’th instance of the character <code>c</code> in the <code>String</code> <code>x</code>.  Use the <code>indexOf()</code> method in a loop."
+    - "Write a function that accepts a String, and determines if that <code>String</code> is a palendrome."    
 
   try_own:
     - "Self Divisors using the Modulus, Loops, and Conditionals: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQselfDivisorA.html\">https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQselfDivisorA.html</a>"

@@ -5,7 +5,6 @@ title: "APCSA: Intro to Computer Science - Iteration"
 excerpt: "APCSA: Intro to Computer Science - Iteration"
 
 info:
-  next: ./Iteration3
   prev: ./Iteration
 
   goals: 
@@ -74,7 +73,7 @@ info:
         ]]></script>        
       title: The <code>while</code> Loop with User Input
       questions: 
-        - Why isn’t the code example from the first model written as a do loop?  How might this result in telling someone to “play outside” while it is raining?
+        - "Why isn’t the code example from the first model written as a do loop?  How might this result in telling someone to \"play outside\" while it is raining?"
 tags:
   - iterations
   
