@@ -12,7 +12,7 @@ info:
     - To explain that binary data uses &quot;bits&quot; of <code>1&apos;s</code> and <code>0&apos;s</code> to represent data of various types, both numeric and textual
     - To identify primitive data structures and their uses
     - To be able to create and compile a Java source file in a chosen development environment
-    - To be able to call System class methods to generate output to the console (APCSA Framework Topic 1.1 Mod 1.A)
+    - To be able to call System class methods to generate output to the console <strong>(APCSA Framework Topic 1.1 Mod 1.A)</strong>
     - To be able to identify the different primitive data types used in the Java language
     - To be able to create string literals <strong>(APCSA Framework Topic 1.1 Var 1.A)</strong>
     - To be able to identify the appropriate data type category for a particular specification. <strong>(APCSA Framework Topic 1.2 Var 1.B)</strong>
