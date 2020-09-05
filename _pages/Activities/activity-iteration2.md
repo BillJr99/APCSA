@@ -71,7 +71,7 @@ info:
             }
         }
         ]]></script>        
-      title: The <code>while</code> Loop with User Input
+      title: The <code>do</code> Loop with User Input
       questions: 
         - "Why isn’t the code example from the first model written as a <code>do</code> loop?  How might this result in telling someone to \"play outside\" while it is raining?"
 tags:

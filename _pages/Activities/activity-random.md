@@ -4,9 +4,9 @@ permalink: /Activities/Random
 title: "APCSA: Intro to Computer Science - Functions to Generate Random Numbers"
 excerpt: "APCSA: Intro to Computer Science - Functions to Generate Random Numbers"
 
-prev: ./Functions
-
 info:
+  prev: ./Functions
+  
   goals: 
     - To be able to utilize the methods Math class in code
   models:

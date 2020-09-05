@@ -4,9 +4,9 @@ permalink: /Activities/Functions
 title: "APCSA: Intro to Computer Science - Functions"
 excerpt: "APCSA: Intro to Computer Science - Functions"
 
-next: ./Random
-
 info:
+  next: ./Random
+  
   goals: 
     - To be able to call methods in various configurations (parameters, return values)
   models:
