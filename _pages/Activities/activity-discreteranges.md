@@ -268,7 +268,7 @@ info:
     - "Variables and Assignments Review (Part 1.8.1): <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html\">https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html</a>"
     
   try_own:
-    - "Variables and Assignments Review (Part 1.8.2): <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/to\">https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/to</a>"
+    - "Variables and Assignments Review (Part 1.8.2): <a href=\"https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-mixed-code.html\">https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-mixed-code.html</a>"
     - "Practice Coding: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html\">https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-8-practice-coding.html</a>"
     - "BJP5 1.10 - Shaq: <a href=\"https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s10-Shaq\">https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s10-Shaq</a>"
     - "BJP5 1.14 - testofKnowledge: <a href=\"https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s14-TestOfKnowledge\">https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s14-TestOfKnowledge</a>"
