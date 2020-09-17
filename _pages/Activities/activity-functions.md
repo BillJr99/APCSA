@@ -103,10 +103,10 @@ info:
       title: Function Return Values
 
   try_partner:
-    - "Conditionals: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-10-practice-coding.html\"></a>"
+    - "Conditionals: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-10-practice-coding.html\">https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-10-practice-coding.html</a>"
     
   try_own:
-    - "Points on a Line: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/APLine.html\"></a>"
+    - "Points on a Line: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/APLine.html\">https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/APLine.html</a>"
     
 tags:
   - functions
