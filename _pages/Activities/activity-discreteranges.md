@@ -273,7 +273,7 @@ info:
     - "BJP5 1.10 - Shaq: <a href=\"https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s10-Shaq\">https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s10-Shaq</a>"
     - "BJP5 1.14 - testofKnowledge: <a href=\"https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s14-TestOfKnowledge\">https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s14-TestOfKnowledge</a>"
     - "BJP5 1.15 - printlnSlashes: <a href=\"https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s15-printlnSlashes\">https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/s15-printlnSlashes</a>"
-    - Write a program that displays the area of a circle that has radius 8.5 using the formula <span>\(A=\pi r^{2}\)</span>.  Identify the variables needed in your program.  What is the algorith?  What should the output display?
+    - Write a program that displays the area of a circle that has radius 8.5 using the formula <span>\(A=\pi r^{2}\)</span>.  Identify the variables needed in your program.  What is the algorithm?  What should the output display?
 tags:
   - datatypes
   - expressions
