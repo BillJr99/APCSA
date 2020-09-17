@@ -73,7 +73,10 @@ info:
             }
             
             public static void main(String[] args) {
-                String friend = "Alex";
+                Scanner scanner = new Scanner(System.in);
+                
+                System.out.print("Enter your name: ");
+                String friend = scanner.nextLine();
                 
                 sayHello(friend);
                 sayHello("friend");
