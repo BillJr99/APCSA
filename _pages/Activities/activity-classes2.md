@@ -56,13 +56,11 @@ info:
         - Implement a method <code>boolean equals(Book _book)</code> that returns <code>true</code> if the title and author of <code>_book</code> is the same as the title and author of the Book object on which equals is called (in other words, <code>this</code>).
       embed: |
         <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaAccessorMutatorExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>         
-  try_partner:
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/FRQstepTracker.html
-      title: Step Tracker Exercise
-  try_own:
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/timeFRQ.html
-      title: Time Class
   additional_practice:      
+    - link: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/FRQstepTracker.html
+      title: Step Tracker Exercise  
+    - link: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/timeFRQ.html
+      title: Time Class  
     - link: https://repl.it/community/classrooms/20700/assignments/146494
       title: Stocks      
     - link: https://repl.it/community/classrooms/20700/assignments/146500
