@@ -55,12 +55,12 @@ info:
         - The <code>Integer</code> class has a <code>static</code> method <code>intValue()</code>.  How might you use that to compare the underlying field values of the Integer objects <code>i1</code> and <code>i2</code> in order to correct the line <code>boolean equal = (i1 == i2);</code>?    
         - Implement a method <code>boolean equals(Book _book)</code> that returns <code>true</code> if the title and author of <code>_book</code> is the same as the title and author of the Book object on which equals is called (in other words, <code>this</code>).
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaAccessorMutatorExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>         
+        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaAccessorMutatorExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>  
+  try_partner:
+    - "<a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/FRQstepTracker.html\">Step Tracker Exercise</a>"
+  try_own:
+    - "<a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/timeFRQ.html\">Time Class</a>"
   additional_practice:      
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/FRQstepTracker.html
-      title: Step Tracker Exercise  
-    - link: https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/timeFRQ.html
-      title: Time Class  
     - link: https://repl.it/community/classrooms/20700/assignments/146494
       title: Stocks      
     - link: https://repl.it/community/classrooms/20700/assignments/146500
