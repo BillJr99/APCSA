@@ -36,11 +36,6 @@ info:
       title: The <code>if</code> Statement
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit3-If-Statements/topic-3-3-if-else.html
       title: The <code>if</code>/<code>else</code> Statement
-  additional_practice:
-    - link: https://repl.it/community/classrooms/20700/assignments/146540
-      title: Practice with Conditionals
-    - link: https://repl.it/community/classrooms/20700/assignments/146545
-      title: Even or Odd?
 
 tags:
   - boolean

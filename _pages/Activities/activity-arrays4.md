@@ -87,7 +87,6 @@ info:
     - "The <code>ArrayList</code>: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listPractice.html\">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listPractice.html</a>"
     - "<code>ArrayList</code> Questions: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listMedMC.html\">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listMedMC.html</a>"
     - "More Challenging Questions about the <code>ArrayList</code>: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listHardMC.html\">https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listHardMC.html</a>"
-    - "<code>ArrayList</code> Practice: <a href=\"https://repl.it/community/classrooms/20700/assignments/146519\">https://repl.it/community/classrooms/20700/assignments/146519</a>" 
       
   additional_practice:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listPractice.html
@@ -96,8 +95,6 @@ info:
       title: <code>ArrayList</code> Questions
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit7-ArrayList/listHardMC.html
       title: More Challenging Questions about the <code>ArrayList</code>
-    - link: https://repl.it/community/classrooms/20700/assignments/146519
-      title: <code>ArrayList</code> Practice    
       
 tags:
   - arrays

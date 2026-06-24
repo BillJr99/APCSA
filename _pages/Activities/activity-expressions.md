@@ -157,20 +157,16 @@ info:
         - What would happen if you attempt to divide by 0?  Feel free to try this in the code window below!
         - Notice the result of dividing <code>x / 2</code> if <code>x</code> is an <code>int</code>?  How about if <code>x</code> is a <code>double</code> or a <code>float</code>?
         - Suppose you had to divide two integers, but you want the result to be stored as a floating point value.  How could you ensure that this happens (there are several possibilities!)?
-        - In repl.it, write a program that declares a variable called <code>price</code> whose value is the price of a bunch of bananas (you can make up a value for this!).  Print out the value of <code>price</code>
+        - In a development environment of your choice, write a program that declares a variable called <code>price</code> whose value is the price of a bunch of bananas (you can make up a value for this!).  Print out the value of <code>price</code>
         - What data type should <code>price</code> be?
         - Suppose your state charges sales tax on bananas at a rate of 6%.  Assign a variable called <code>finalPrice</code> to this value, and print that to the screen.
         - Re-write the sales tax assignment statement using a compound operator (or, if you used a compound operator already, what is the equivalent non-compound statement)?
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaFirstExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>        
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaFirstExample.zip&title=Java%20First%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
   additional_reading:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-4-assignment.html	
       title: Expressions and Assignments
   additional_practice:
-    - link: https://repl.it/community/classrooms/20700/assignments/146539
-      title: Creating <code>String</code> Variables
-    - link: https://repl.it/community/classrooms/20700/assignments/146530
-      title: Creating <code>int</code> Variables  
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-5-shortcutoperators.html
       title: Compound Assignment Operators
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/Exercises.html

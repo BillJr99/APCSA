@@ -48,13 +48,13 @@ info:
       questions:
         - What does <code>return</code> mean in the <code>circleArea</code> function above?
         - Notice that functions have data types before their function names, just like variables do.  What is the return type of <code>circleArea()</code>?
-        - Try running the sample program above in repl.it. 
+        - Try running the sample program above in a development environment of your choice. 
         - Modify the program to write an additional function circleDiameter() that computes the diameter (<span>\(2 \times \pi \times r\)</span>) given the radius of the circle.  Call that function from main() and print the value.
         - Modify the program to write and call <code>triangleArea()</code> from <code>main()</code> and then print the area of a triangle whose dimensions you choose.
         - The Math class includes several useful math functions that you can call.  For example, <code>Math.pow(a, b)</code> will return the <code>double</code> value computed by <code>a</code> raised to the power of <code>b</code> (both <code>double</code> values).  Re-write <code>circleArea()</code> so that it computes the <code>radius</code> raised to the power of <code>2</code>, rather than multiplying it by itself.
         - The Math class also provides constants, so that you do not need to hard-code approximate values like we did with <code>3.14</code> for the value <span>\(\pi\)</span>.  Modify the program to use the constant <code>Math.PI</code> instead of <code>3.14</code>.
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaFirstExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>    
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaFirstExample.zip&title=Java%20First%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
     - model: |
         <script type="syntaxhighlighter" class="brush: cpp"><![CDATA[
         import java.util.Scanner;
@@ -92,7 +92,7 @@ info:
         - What does it mean if a function does not have any parameters, like <code>sayHelloWorld()</code>?  For example, how do you call a function like this?
         - The <code>+</code> operator works on Strings as well as on numeric values.  &quot;Adding&quot; two strings together concatenates or combines them.  Re-write the <code>sayHello()</code> method so that it executes in just one <code>System.out.println()</code> statement.      
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaFirstExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>        
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaFirstExample.zip&title=Java%20First%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 
   reflective_prompts:
     - Notice the comments above the <code>circleArea</code> function.  What do you think a precondition means?

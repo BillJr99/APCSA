@@ -24,7 +24,7 @@ info:
         - Why not just do things the old way and access the variable directly, rather than using accessors and mutators?
         - What does <code>public</code> and <code>private</code> mean?  
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaAccessorMutatorExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe> 
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaAccessorMutatorExample.zip&title=Java%20Accessor%20Mutator%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
     - model: |
         <script type="syntaxhighlighter" class="brush: cpp"><![CDATA[
         public class Main {
@@ -55,18 +55,11 @@ info:
         - The <code>Integer</code> class has a <code>static</code> method <code>intValue()</code>.  How might you use that to compare the underlying field values of the Integer objects <code>i1</code> and <code>i2</code> in order to correct the line <code>boolean equal = (i1 == i2);</code>?    
         - Implement a method <code>boolean equals(Book _book)</code> that returns <code>true</code> if the title and author of <code>_book</code> is the same as the title and author of the Book object on which equals is called (in other words, <code>this</code>).
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaAccessorMutatorExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>  
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaAccessorMutatorExample.zip&title=Java%20Accessor%20Mutator%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
   try_partner:
     - "<a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/FRQstepTracker.html\">Step Tracker Exercise</a>"
   try_own:
     - "<a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/timeFRQ.html\">Time Class</a>"
-  additional_practice:      
-    - link: https://repl.it/community/classrooms/20700/assignments/146494
-      title: Stocks      
-    - link: https://repl.it/community/classrooms/20700/assignments/146500
-      title: Encapsulation
-    - link: https://repl.it/community/classrooms/20700/assignments/146506
-      title: Computing the Mean of an Array
   reflective_prompts:
     - How do you think encapsulation helps make things easier for other programmers to use our code?
   additional_reading:
