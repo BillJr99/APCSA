@@ -21,7 +21,7 @@ info:
         - Write a function that generates a random number between <code>1</code> and <code>10</code> using the code you generated in the above questions.
         - Call this function from <code>main()</code>, and compare it to an <code>int</code> variable called <code>guess</code> that you create in <code>main</code> to hold any value between <code>1</code> and <code>10</code>.  Print out the value, your guess, and whether you correctly guessed the value!        
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaFirstExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>         
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaFirstExample.zip&title=Java%20First%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 
   reflective_prompts:
     - How do you think a computer might generate a random number?  Why do you think we call them pseudorandom numbers?

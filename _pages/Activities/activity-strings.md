@@ -48,7 +48,7 @@ info:
         - What is the difference between the two <code>indexOf()</code> methods given above? How do you know which version you are calling from a program?
         - What is the difference between the two <code>replace()</code> methods given above?  How do you know which version you are calling from a program?
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaFirstExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe> 
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaFirstExample.zip&title=Java%20First%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 
   additional_reading:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-6-strings.htm	
@@ -57,30 +57,8 @@ info:
       title: String Methods
 
   additional_practice:
-    - link: https://repl.it/community/classrooms/20700/assignments/146459
-      title: Printing the length of a <code>String</code>
-    - link: https://repl.it/community/classrooms/20700/assignments/146544
-      title: The <code>charAt</code> Method
-    - link: https://repl.it/community/classrooms/20700/assignments/146534
-      title: The <code>indexOf</code> Method
-    - link: https://repl.it/community/classrooms/20700/assignments/146536
-      title: Substrings
-    - link: https://repl.it/community/classrooms/20700/assignments/146558
-      title: <code>String</code> Methods Practice
-    - link: https://repl.it/community/classrooms/20700/assignments/146561
-      title: The <code>substring</code> method
-    - link: https://repl.it/community/classrooms/20700/assignments/146555
-      title: Testing for Substrings at the End of a <code>String</code>
-    - link: https://repl.it/community/classrooms/20700/assignments/146553
-      title: Testing for <code>String</code> Equality
-    - link: https://repl.it/community/classrooms/20700/assignments/146570
-      title: Reversing a <code>String</code>     
-    - link: https://repl.it/community/classrooms/20700/assignments/146565
-      title: Mixed Case
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-12-practice-coding.html
       title: Coding with Objects
-    - link: https://repl.it/community/classrooms/20700/assignments/146564
-      title: <code>String</code> Pluralizer      
     
   try_partner:
     - "<code>String</code> Manipulation: <a href=\"https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQstringScrambleA.html\">https://runestone.academy/runestone/books/published/csawesome/Unit4-Iteration/FRQstringScrambleA.html</a>"

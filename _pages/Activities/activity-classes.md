@@ -24,7 +24,7 @@ info:
         - Other editions of The Great Gatsby were released with 180 pages.  What would you change in the code to reflect this?
         - What would you write to print the author and title of each of these books? 
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaClassExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>         
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaClassExample.zip&title=Java%20Class%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
     - model: Consider the program in the embedded frame.
       title: Constructors
       questions:
@@ -33,7 +33,7 @@ info:
         - What do you think the <code>this</code> keyword means?
         - Why do you think we put underscore characters in the input parameters to the constructor, like <code>_pages</code>?     
       embed: |
-        <iframe height="400px" width="100%" src="https://repl.it/@BillJr99/JavaConstructorExample?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe> 
+        <iframe height="400px" width="100%" src="https://BillJr99.github.io/APCSA/assets/code-viewer.html?zip=https%3A%2F%2Fraw.githubusercontent.com%2FBillJr99%2FAPCSA%2Fgh-pages%2Fassets%2Freplit%2FJavaConstructorExample.zip&title=Java%20Constructor%20Example" scrolling="yes" frameborder="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin"></iframe>
 
   additional_reading:
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit2-Using-Objects/topic-2-1-objects-intro-turtles.html

@@ -48,8 +48,6 @@ info:
       title: Array Practice
     - link: https://runestone.academy/runestone/books/published/csawesome/Unit6-Arrays/Exercises.html
       title: Questions about Arrays
-    - link: https://repl.it/community/classrooms/20700/assignments/146506
-      title: Computing the Mean of an Array      
       
 tags:
   - arrays
